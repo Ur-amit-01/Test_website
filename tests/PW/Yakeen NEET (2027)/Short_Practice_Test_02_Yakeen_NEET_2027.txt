@@ -1,0 +1,387 @@
+1. A physical quantity which has a direction:
+A) Must be a vector
+B) May be a vector
+C) Must be a scalar
+D) None of the above
+Answer: B
+
+2. Position of a particle in a rectangular co-ordinate system is (3, 2, 5). Then its position vector will be:
+A) 3î + 5ĵ + 2k̂
+B) 3î + 2ĵ + 5k̂
+C) 5î + 3ĵ + 2k̂
+D) None of these
+Answer: B
+
+3. If n̂ is a unit vector in the direction of the vector A⃗, then:
+A) n̂ = A⃗ / |A⃗|
+B) n̂ = A⃗|A⃗|
+C) n̂ = |A⃗| / A⃗
+D) None of the above
+Answer: A
+
+4. The unit vector along 2î − 3ĵ + k̂ is:
+A) (2î − 3ĵ + k̂)/√14
+B) (2î − 3ĵ + k̂)/5
+C) (2î − 3ĵ + k̂)/√15
+D) None of these
+Answer: A
+
+5. The resultant of A⃗ and B⃗ makes an angle α with A⃗ and β with B⃗, then:
+A) α < β
+B) α < β if |A| < |B|
+C) α < β if |A| > |B|
+D) α < β if |A| = |B|
+Answer: C
+
+6. The value of the sum of two vectors A⃗ and B⃗ with θ as the angle between them is:
+A) √(A² + B² + 2AB cos θ)
+B) √(A² − B² + 2AB cos θ)
+C) √(A² + B² − 2AB sin θ)
+D) √(A² + B² + 2AB sin θ)
+Answer: A
+
+7. For the resultant of the two vectors to be maximum, what must be the angle between them?
+A) 0°
+B) 60°
+C) 90°
+D) 180°
+Answer: A
+
+8. Two forces of 12 N and 8 N act upon a body. The resultant force on the body has maximum value of:
+A) 4 N
+B) 0 N
+C) 20 N
+D) 8 N
+Answer: C
+
+9. Find the x-component of vector A⃗ (as shown, A = 100 making an angle of 53° with the y-axis).
+A) 80
+B) 60
+C) 40
+D) none
+Image: data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNjAgMjIwIiB3aWR0aD0iMjYwIiBoZWlnaHQ9IjIyMCI+CjxsaW5lIHgxPSIzMCIgeTE9IjE5MCIgeDI9IjIzMCIgeTI9IjE5MCIgc3Ryb2tlPSIjMTYyMDJFIiBzdHJva2Utd2lkdGg9IjIiLz4KPGxpbmUgeDE9IjMwIiB5MT0iMTkwIiB4Mj0iMzAiIHkyPSIyMCIgc3Ryb2tlPSIjMTYyMDJFIiBzdHJva2Utd2lkdGg9IjIiLz4KPHRleHQgeD0iMjM1IiB5PSIxOTUiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLHNlcmlmIiBmb250LXNpemU9IjE0IiBmaWxsPSIjMTYyMDJFIj54PC90ZXh0Pgo8dGV4dCB4PSIxOCIgeT0iMjAiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLHNlcmlmIiBmb250LXNpemU9IjE0IiBmaWxsPSIjMTYyMDJFIj55PC90ZXh0Pgo8bGluZSB4MT0iMzAiIHkxPSIxOTAiIHgyPSIxNTAiIHkyPSI2MCIgc3Ryb2tlPSIjMTYyMDJFIiBzdHJva2Utd2lkdGg9IjIuNSIvPgo8cG9seWdvbiBwb2ludHM9IjE1MCw2MCAxNDAsNzUgMTU4LDcyIiBmaWxsPSIjMTYyMDJFIi8+Cjx0ZXh0IHg9IjE1NSIgeT0iNTUiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLHNlcmlmIiBmb250LXNpemU9IjE2IiBmb250LXN0eWxlPSJpdGFsaWMiIGZpbGw9IiMxNjIwMkUiPkEgPSAxMDA8L3RleHQ+CjxwYXRoIGQ9Ik0gMzAgMTUwIEEgNDAgNDAgMCAwIDEgNjUgMTMwIiBmaWxsPSJub25lIiBzdHJva2U9IiMxNjIwMkUiIHN0cm9rZS13aWR0aD0iMS41Ii8+Cjx0ZXh0IHg9IjQ1IiB5PSIxNTAiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLHNlcmlmIiBmb250LXNpemU9IjE0IiBmaWxsPSIjMTYyMDJFIj41MyYjMTc2OzwvdGV4dD4KPC9zdmc+
+Answer: A
+
+10. Vector P⃗ makes angles α, β & λ with the X, Y and Z axes respectively, then cos²α + cos²β + cos²λ =
+A) 0
+B) 1
+C) 2
+D) 3
+Answer: B
+
+11. A force (2î + 2ĵ) N displaces an object through a displacement (2î − 3ĵ) m. The work (W = F⃗ · S⃗) done is:
+A) 2 J
+B) −2 J
+C) 5 J
+D) 13 J
+Answer: B
+
+12. What is the value of linear velocity, if ω⃗ = 3î − 4ĵ + k̂ and r⃗ = 5î − 6ĵ + 6k̂?
+A) 6î − 2ĵ + 3k̂
+B) 6î − 2ĵ + 8k̂
+C) 4î − 13ĵ + 6k̂
+D) −18î − 13ĵ + 2k̂
+Answer: D
+
+13. Which statement is correct regarding the reaction? 2H₂O₂(aq) → 2H₂O(l) + O₂(g)
+A) Hydrogen experiences disproportionation in the reaction
+B) Oxygen experiences disproportionation in the reaction
+C) Hydrogen oxidation number changes from +1 to 0
+D) Oxygen oxidation number changes from −2 to −1
+Answer: B
+
+14. The oxidation states of Sulphur in the anions SO₃²⁻, S₂O₄²⁻ and S₂O₆²⁻ follow the order:
+A) S₂O₆²⁻ < S₂O₄²⁻ < SO₃²⁻
+B) S₂O₄²⁻ < SO₃²⁻ < S₂O₆²⁻
+C) SO₃²⁻ < S₂O₄²⁻ < S₂O₆²⁻
+D) S₂O₄²⁻ < S₂O₆²⁻ < SO₃²⁻
+Answer: B
+
+15. Nitric oxide acts as a reducing agent in the reaction:
+A) 4NH₃ + 5O₂ → 4NO + 6H₂O
+B) 2NO + 3I₂ + 4H₂O → 2NO₃⁻ + 6I⁻ + 8H⁺
+C) 2NO + H₂SO₃ → N₂O + H₂SO₄
+D) 2NO + H₂S → N₂O + S + H₂O
+Answer: B
+
+16. For the redox reaction, Zn + NO₃⁻ + H₂O → Zn²⁺ + NH₄⁺ + OH⁻, the sum of coefficients of Zn, NO₃⁻ and OH⁻ in the balanced equation is:
+A) 15
+B) 14
+C) 16
+D) 10
+Answer: B
+
+17. Compound(s) in which chromium is not present in +6 oxidation state is/are:
+I. K₂Cr₂O₇
+II. CrO₃
+III. CrO₅
+IV. Na₂CrO₄
+V. Cr₂(SO₄)₃
+VI. CrCl₂
+A) III, V and VI
+B) V and VI
+C) II, III, V and VI
+D) I, III, IV and V
+Answer: B
+
+18. In the following reaction 2Mg(s) + O₂(g) → 2MgO(s), with respect to Mg, the process is called:
+A) Oxidation
+B) Reduction
+C) Redox reaction
+D) None of these
+Answer: A
+
+19. Given below are two statements:
+Statement I: In a redox reaction, the oxidation number of oxidant decreases while that of reductant increases.
+Statement II: Oxidant loses electron(s) and reductant gains electron(s).
+In the light of the above statements, choose the most appropriate answer from the options given below:
+A) Statement I is correct but Statement II is incorrect
+B) Statement I is incorrect but Statement II is correct
+C) Both Statement I and Statement II are correct
+D) Both Statement I and Statement II are incorrect
+Answer: A
+
+20. The equivalent weight of H₂SO₄ in the reaction: 2KMnO₄ + 3H₂SO₄ + 10HCl → 2MnSO₄ + K₂SO₄ + 5Cl₂ + 8H₂O, is:
+A) M/2
+B) M
+C) 3M/10
+D) 3M/5
+Answer: A
+
+21. In the compound H₂O₂ (hydrogen peroxide), what is the oxidation state of oxygen?
+A) +1
+B) −1
+C) 0
+D) −2
+Answer: B
+
+22. For the redox reaction, HgCl₂ + SnCl₂ → Hg + SnCl₄, the correct coefficient of reactants for the balanced equation are:
+A) 1, 1
+B) 1, 2
+C) 2, 2
+D) 2, 1
+Answer: A
+
+23. Which reaction is not a redox reaction?
+A) MnO₄⁻ → MnO₂ + O₂
+B) Cl₂ + H₂O → HCl + HClO
+C) CrO₄²⁻ + H⁺ → Cr₂O₇²⁻ + H₂O
+D) MnO₄⁻ + H⁺ + Ag → Mn²⁺ + Ag⁺ + H₂O
+Answer: C
+
+24. In the following equation, 2Br₂ + 6CO₃²⁻ + 3H₂O → 5Br⁻ + BrO₃⁻ + 6HCO₃⁻
+A) Bromine is oxidised and carbonate is reduced
+B) Bromine is reduced and carbonate is oxidised
+C) Bromine is neither reduced nor oxidised
+D) Bromine is reduced as well as oxidised
+Answer: D
+
+25. How are the Rough Endoplasmic Reticulum (RER) and the Golgi apparatus functionally linked in the processing of secreted proteins?
+A) SER synthesises proteins which are then modified and packaged by the Golgi apparatus
+B) Proteins are synthesised on RER, transported to the Golgi where they are modified, and then packaged into vesicles from its trans face for secretion
+C) The Golgi synthesises proteins and sends them to the RER for modification and packaging
+D) Proteins from the RER fuse with the trans face of the Golgi and exit from the cis face after modification
+Answer: B
+
+26. In Amoeba, the contractile vacuole is important for:
+A) Respiration and osmoregulation
+B) Excretion and respiration
+C) Osmoregulation and excretion
+D) Excretion and digestion
+Answer: C
+
+27. Which of the following statements about inclusion bodies is incorrect?
+A) They are not bound by any membrane
+B) These are involved in ingestion of food particles
+C) They lie free in the cytoplasm
+D) These represent reserve material in cytoplasm
+Answer: B
+
+28. Select the correct option stating true (T) and false (F) w.r.t. ribosomes.
+(A) Protein synthesis in eukaryotic cell occurs in the ribosomes of nucleus only.
+(B) Ribosomes are the granular structures first observed under the electron microscope.
+(C) The sedimentation coefficient is indirect measure of density and size.
+(D) They are composed of RNA (ribonucleic acid) and protein.
+A) A-T, B-T, C-T, D-F
+B) A-F, B-F, C-F, D-T
+C) A-T, B-F, C-T, D-T
+D) A-F, B-T, C-T, D-T
+Answer: D
+
+29. The cell wall is the outermost covering in plant cell which:
+(I) protects the cell from infection.
+(II) shows the selectively permeable nature.
+(III) helps in cell-to-cell interaction.
+(IV) gives shape to the cell.
+Which of the above statement(s) is/are correct?
+A) I and II only
+B) II and III only
+C) Only III
+D) I, III and IV only
+Answer: D
+
+30. Given below are two statements:
+Statement I: Nucleolus is a membrane bound structure.
+Statement II: Nucleolus is present in the cytoplasm.
+In the light of the above statements, choose the most appropriate answer from the options given below:
+A) Statement I is correct but Statement II is incorrect
+B) Statement I is incorrect but Statement II is correct
+C) Both Statement I and Statement II are correct
+D) Both Statement I and Statement II are incorrect
+Answer: D
+
+31. Select the incorrect statement about prokaryotic ribosomes.
+A) 50S and 30S subunits unite to form 70S ribosomes
+B) Polyribosome consists of many ribosomes only
+C) Ribosome is the site of protein synthesis
+D) The ribosomes of a polysome translate the mRNA into proteins
+Answer: B
+
+32. Match the List-I with List-II.
+List-I: (A) Thylakoid  (B) Stroma  (C) Grana
+List-II: (I) Flattened membranous sac contain chlorophyll pigments  (II) Site of enzyme activity  (III) Stacks of thylakoids
+Choose the correct answer from the options given below:
+A) A-I, B-II, C-III
+B) A-III, B-I, C-II
+C) A-II, B-I, C-III
+D) A-II, B-III, C-I
+Answer: A
+
+33. Which is a mismatched pair?
+A) Capsule – Thick and tough glycocalyx
+B) Slime layer – Loose glycocalyx
+C) Pili – Motility organ
+D) Bacterial cells – Motile or nonmotile
+Answer: C
+
+34. Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R:
+Assertion A: Microbodies are membrane bound minute vesicles.
+Reason R: Microbodies are present in plant and animal cells.
+In the light of the above statements, choose the correct answer from the options given below:
+A) A is true but R is false
+B) A is false but R is true
+C) Both A and R are true and R is the correct explanation of A
+D) Both A and R are true but R is NOT the correct explanation of A
+Answer: D
+
+35. Read the following statements and choose the correct option.
+(I) The Golgi cisternae are randomly scattered throughout the cytoplasm and not associated with the nucleus.
+(II) In the prokaryotes, the semifluid matrix filling the cell is the cytoplasm.
+(III) All eukaryotic cells are identical.
+(IV) Eukaryotic cells possess an organised nucleus with a nuclear envelope.
+A) I and III are incorrect
+B) II and III are correct
+C) III and IV are correct
+D) Only III is incorrect
+Answer: A
+
+36. Read the following statements related to prokaryotes.
+I. Many bacteria have small circular DNA outside the genomic DNA called plasmids.
+II. Plasmid DNA confers certain unique phenotypic characters such as resistance to antibiotics in bacteria.
+III. The genetic material is basically naked and there is no well-defined nucleus.
+Choose the most appropriate answer from the options given below:
+A) I, II and III are correct
+B) I and II are incorrect only
+C) I and III are correct only
+D) I and III are incorrect only
+Answer: A
+
+37. Refer to the following figure showing two animals, (A) a grasshopper-like arthropod and (B) a hydra-like tube-shaped cnidarian. Choose the incorrect option regarding the figure (A) and (B).
+A) A-Belongs to phylum Arthropoda, B-Belongs to phylum Coelenterata
+B) A-Possess haemocoel, B-Possess gastrovascular cavity
+C) A-Triploblastic, B-Diploblastic
+D) A-Water vascular system, B-Water canal system
+Image: data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMjAgMjAwIiB3aWR0aD0iMzIwIiBoZWlnaHQ9IjIwMCI+CjxlbGxpcHNlIGN4PSI5MCIgY3k9IjExMCIgcng9IjU1IiByeT0iMjIiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzE2MjAyRSIgc3Ryb2tlLXdpZHRoPSIyLjUiLz4KPGxpbmUgeDE9IjE0MCIgeTE9IjEwMCIgeDI9IjE4MCIgeTI9IjcwIiBzdHJva2U9IiMxNjIwMkUiIHN0cm9rZS13aWR0aD0iMiIvPgo8bGluZSB4MT0iMTQwIiB5MT0iMTA1IiB4Mj0iMTg1IiB5Mj0iMTA1IiBzdHJva2U9IiMxNjIwMkUiIHN0cm9rZS13aWR0aD0iMiIvPgo8bGluZSB4MT0iNjAiIHkxPSIxMjUiIHgyPSI0NSIgeTI9IjE1MCIgc3Ryb2tlPSIjMTYyMDJFIiBzdHJva2Utd2lkdGg9IjIiLz4KPGxpbmUgeDE9IjgwIiB5MT0iMTI4IiB4Mj0iNzAiIHkyPSIxNTUiIHN0cm9rZT0iIzE2MjAyRSIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxsaW5lIHgxPSIxMDAiIHkxPSIxMjgiIHgyPSIxMDAiIHkyPSIxNTgiIHN0cm9rZT0iIzE2MjAyRSIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxsaW5lIHgxPSI1MCIgeTE9Ijk1IiB4Mj0iMzAiIHkyPSI3NSIgc3Ryb2tlPSIjMTYyMDJFIiBzdHJva2Utd2lkdGg9IjEuNSIvPgo8bGluZSB4MT0iNTUiIHkxPSI5MCIgeDI9IjM1IiB5Mj0iNjUiIHN0cm9rZT0iIzE2MjAyRSIgc3Ryb2tlLXdpZHRoPSIxLjUiLz4KPHRleHQgeD0iNjAiIHk9IjE4MCIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsc2VyaWYiIGZvbnQtc2l6ZT0iMTYiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiMxNjIwMkUiPihBKTwvdGV4dD4KPHJlY3QgeD0iMjQwIiB5PSI2MCIgd2lkdGg9IjMwIiBoZWlnaHQ9IjkwIiByeD0iMTIiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzE2MjAyRSIgc3Ryb2tlLXdpZHRoPSIyLjUiLz4KPGxpbmUgeDE9IjI0NSIgeTE9IjYwIiB4Mj0iMjM1IiB5Mj0iMzAiIHN0cm9rZT0iIzE2MjAyRSIgc3Ryb2tlLXdpZHRoPSIyIi8+CjxsaW5lIHgxPSIyNTUiIHkxPSI1NSIgeDI9IjI1MCIgeTI9IjIwIiBzdHJva2U9IiMxNjIwMkUiIHN0cm9rZS13aWR0aD0iMiIvPgo8bGluZSB4MT0iMjY1IiB5MT0iNjAiIHgyPSIyNzAiIHkyPSIyNSIgc3Ryb2tlPSIjMTYyMDJFIiBzdHJva2Utd2lkdGg9IjIiLz4KPGxpbmUgeDE9IjI0OCIgeTE9IjE1MCIgeDI9IjI0OCIgeTI9IjE3NSIgc3Ryb2tlPSIjMTYyMDJFIiBzdHJva2Utd2lkdGg9IjIiLz4KPGxpbmUgeDE9IjI2MiIgeTE9IjE1MCIgeDI9IjI2MiIgeTI9IjE3NSIgc3Ryb2tlPSIjMTYyMDJFIiBzdHJva2Utd2lkdGg9IjIiLz4KPHRleHQgeD0iMjU1IiB5PSIxOTIiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLHNlcmlmIiBmb250LXNpemU9IjE2IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjMTYyMDJFIj4oQik8L3RleHQ+Cjwvc3ZnPg==
+Answer: D
+
+38. Heart in amphibians is
+A) Two-chambered with one auricle and one ventricle
+B) Three-chambered with two auricles and one ventricle
+C) Three-chambered with one auricle and two ventricles
+D) Four-chambered with two auricles and two ventricles
+Answer: B
+
+39. Match List-I with List-II.
+List-I: (A) Bufo and Bangarus  (B) Gorgonia and Adamsia  (C) Struthio and Macaca  (D) Sycon and Spongilla
+List-II: (I) Marine habitat  (II) Poikilotherms  (III) Monoecious  (IV) Homeotherms
+Choose the correct answer from the options given below:
+A) A-II, B-I, C-IV, D-III
+B) A-II, B-IV, C-III, D-I
+C) A-I, B-II, C-III, D-IV
+D) A-IV, B-III, C-II, D-I
+Answer: A
+
+40. Read the following statements and choose correct ones.
+A. Chordata is the largest phylum on earth.
+B. Notochord is persistent throughout life in Amphioxus.
+C. Dorsal tubular nerve cord lies above the notochord.
+A) A & B only
+B) A & C only
+C) B & C only
+D) A, B & C
+Answer: C
+
+41. In Platyhelminthes:
+A) The embryonic layers ectoderm and endoderm are separated by mesoglea
+B) They are asymmetrical
+C) They exhibit tissue level of organisation
+D) The body cavity is absent
+Answer: D
+
+42. Read the following statements (I-IV).
+I. An excretory tube removes body wastes from the body cavity through the excretory pore in roundworms.
+II. Reproduction in ctenophores is only by asexual means.
+III. Cnidarians have a central gastro-vascular cavity with a single opening, mouth on hypostome.
+IV. In amphibians, the alimentary canal, urinary tract, and reproductive tract open into a common chamber called the cloaca.
+Choose the option with the correct statements.
+A) I, II and III only
+B) II, III and IV only
+C) I, III and IV only
+D) I, II and IV only
+Answer: C
+
+43. Which of the following features is a characteristic of Phylum Annelida?
+A) Pseudocoelomate body plan
+B) Metameric segmentation
+C) Presence of choanocytes
+D) Jointed appendages
+Answer: B
+
+44. Pneumatic bones and the presence of air sacs connected to lungs are characteristic features of:
+A) Reptilia
+B) Mammalia
+C) Aves
+D) Amphibia
+Answer: C
+
+45. Chief features of mammals, which distinguish them from other vertebrates, are
+A) Hair and oviparity
+B) Mammary glands, hairs on skin and diaphragm
+C) Pinna and teeth
+D) Teeth and mammary glands
+Answer: B
+
+46. Identify the incorrectly matched pair.
+I. Octopus - Dog fish
+II. Antedon - Sea lily
+III. Ophiura – Brittle star
+IV. Hyla - Toad
+A) I and II only
+B) II and III only
+C) III and IV only
+D) I and IV only
+Answer: D
+
+47. The property of bioluminescence (emitting light from the body) is well-marked in which of the following phyla?
+A) Porifera
+B) Ctenophora
+C) Annelida
+D) Mollusca
+Answer: B
+
+48. Which one of the following phyla is correctly matched with its two general characteristics?
+A) Arthropoda - Body divided into head, thorax and abdomen and respiration by tracheae
+B) Chordata - Notochord at some stage and separate anal and urinary openings to the outside
+C) Echinodermata - Pentamerous radial symmetry and mostly internal fertilization
+D) Mollusca - Normally oviparous and development through a trochophore or veliger larva
+Answer: A
