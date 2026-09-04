@@ -1,0 +1,1388 @@
+1. If the angle between two forces increases, the magnitude of their resultant
+A) decreases
+B) increases
+C) remains unchanged
+D) first decreases and then increases
+Answer: A
+
+2. In an experiment four quantities a, b, c and d are measured with percentage error 1%, 2%, 3% and 4%, respectively. Quantity P is calculated as follows:
+P = a³b²/(cd), maximum % error in P is
+A) 7%
+B) 4%
+C) 14%
+D) 10%
+Answer: C
+
+3. Which of the following relation is correct between A, B & C if C = A + B
+A) B + A < C < B − A
+B) A ≤ C ≥ B
+C) |A − B| ≤ C ≤ A + B
+D) |A − B| < C < A + B
+Answer: C
+
+4. The velocity of a moving particle depends upon time t as v = at + b/(t+c). Then dimensional formula for b is:
+A) [M⁰L⁰T⁰]
+B) [M⁰L¹T⁰]
+C) [M⁰L¹T⁻¹]
+D) [M⁰L¹T⁻²]
+Answer: B
+
+5. Which of the following sets cannot enter into the list of fundamental quantities in any system of units?
+A) length, mass and velocity
+B) length, time and velocity
+C) mass, time and velocity
+D) length, time and mass
+Answer: B
+
+6. The dimensions of physical quantity X in the equation, Force = X/Density is given by
+A) [M¹L⁴T⁻²]
+B) [M²L⁻²T⁻¹]
+C) [M²L⁻²T⁻²]
+D) [M¹L⁻²T⁻¹]
+Answer: C
+
+7. A vector A points vertically upward and B points towards north. The vector product A × B is
+A) Zero
+B) Along west
+C) Along east
+D) Vertically downward
+Answer: B
+
+8. Force acting on an object is proportional to the square of acceleration. Find the dimensions of proportional constant.
+A) [ML⁻¹T²]
+B) [M⁻¹L⁻¹T⁻²]
+C) [ML²T⁻²]
+D) [ML²T¹]
+Answer: A
+
+9. A · B = |A × B|, then the angle θ between vector A and B is:
+A) 0°
+B) π/4
+C) π/2
+D) π
+Answer: B
+
+10. If E, M, J and G denote energy, mass, angular momentum and gravitational constant then EJ²/(M⁵G²) has dimensions of
+A) length
+B) angle
+C) mass
+D) time
+Answer: B
+
+11. The angle between vectors (A × B) and (B × A) is
+A) Zero
+B) π
+C) π/4
+D) π/2
+Answer: B
+
+12. Which of the following unit conversion is incorrect?
+A) 1 angstrom = 10⁻¹⁰ m
+B) 1 fermi = 10⁻¹⁵ m
+C) 1 light year = 9.46 × 10¹⁵ m
+D) 1 astronomical unit = 1.496 × 10⁻¹¹ m
+Answer: D
+
+13. If the two vectors A = 2î + 3ĵ + 4k̂ and B = î + 2ĵ − nk̂ are perpendicular then the value of n is:
+A) 1
+B) 2
+C) 3
+D) 4
+Answer: B
+
+14. Van der Waal's gas equation is (P + a/V²)(V − b) = RT. The dimensions of constant a as given above are
+A) ML⁴T⁻²
+B) ML⁵T⁻²
+C) ML³T⁻²
+D) ML²T⁻²
+Answer: B
+
+15. Two vectors are given by A = î + 2ĵ + 2k̂ and B = 3î + 6ĵ + 2k̂. Another vector C has the same magnitude as B but has the same direction as A. Then which of the following vectors represent C
+A) (7/3)(î + 2ĵ + 2k̂)
+B) (3/7)(î − 2ĵ + 2k̂)
+C) (7/3)(î − 2ĵ + 2k̂)
+D) (9/7)(î + 2ĵ + 2k̂)
+Answer: A
+
+16. A dimensionless quantity ______.
+A) never has a unit
+B) always has a unit
+C) may have a unit
+D) does not exist
+Answer: C
+
+17. If a vector A makes angles α, β and γ respectively with the x, y and z axis respectively. Then sin²α + sin²β + sin²γ is equal to:
+A) 0
+B) 1
+C) 2
+D) 3
+Answer: C
+
+18. Match List-I with List-II
+List-I (Physical quantity): A. Planck's constant, B. Wien's constant, C. Stefan–Boltzmann constant, D. Universal gravitational constant
+List-II (Magnitude): I. 2.9 × 10⁻³ mK, II. 6.62 × 10⁻³⁴ kg m²s⁻¹, III. 6.67 × 10⁻¹¹ N m²kg⁻², IV. 5.67 × 10⁻⁸ W m⁻²K⁻⁴
+A) A-IV, B-I, C-II, D-III
+B) A-I, B-II, C-IV, D-III
+C) A-III, B-I, C-IV, D-II
+D) A-II, B-I, C-IV, D-III
+Answer: D
+
+19. A vector A = 4î − 3ĵ + 5k̂. The magnitude of the vector is:
+A) 50
+B) √32
+C) 2√50
+D) √(16+9+25)
+Answer: D
+
+20. Light year is
+A) light emitted by the sun in one year
+B) the time taken by light to travel from sun to earth
+C) the distance travelled by light in free space in one year
+D) the time taken by earth to go once around the sun
+Answer: C
+
+21. If three forces F₁ = 3î − 4ĵ + 5k̂, F₂ = −3î + 4ĵ and F₃ = 5k̂ are acted on a body, then the direction of resultant force on the body is:
+A) Along x-axis
+B) Along y-axis
+C) Along z-axis
+D) In indeterminate form
+Answer: C
+
+22. Candela is the unit of
+A) Sound intensity
+B) Luminous intensity
+C) Charge
+D) Energy
+Answer: B
+
+23. If n̂ is a unit vector in the direction of the vector A, then:
+A) n̂ = A/|A|
+B) n̂ = A|A|
+C) n̂ = |A|/A
+D) None of the above
+Answer: A
+
+24. Which of the following is smallest unit?
+A) Millimetre
+B) Angstrom
+C) Fermi
+D) Metre
+Answer: C
+
+25. The value of the sum of two vectors A and B with θ as the angle between them is:
+A) √(A² + B² + 2AB cosθ)
+B) √(A² − B² + 2AB cosθ)
+C) √(A² + B² − 2AB sinθ)
+D) √(A² + B² + 2AB sinθ)
+Answer: A
+
+26. When a copper sphere is heated, maximum percentage change will be observed in:
+A) radius
+B) area
+C) volume
+D) none of these
+Answer: C
+
+27. Figure shows ABCDEF as a regular hexagon. What is the value of AB + AC + AD + AE + AF?
+A) AO
+B) 2AO
+C) 4AO
+D) 6AO
+Image: data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMDAgMjgwIiB3aWR0aD0iMzAwIiBoZWlnaHQ9IjI4MCI+Cjxwb2x5Z29uIHBvaW50cz0iMTUwLDQwIDIyMCw4MCAyMjAsMTYwIDE1MCwyMDAgODAsMTYwIDgwLDgwIiBmaWxsPSJub25lIiBzdHJva2U9IiMxNjIwMkUiIHN0cm9rZS13aWR0aD0iMiIvPgo8bGluZSB4MT0iMTUwIiB5MT0iMjAwIiB4Mj0iMjIwIiB5Mj0iODAiIHN0cm9rZT0iIzg4OCIgc3Ryb2tlLXdpZHRoPSIxIiBzdHJva2UtZGFzaGFycmF5PSI0LDMiLz4KPGxpbmUgeDE9IjE1MCIgeTE9IjIwMCIgeDI9IjIyMCIgeTI9IjE2MCIgc3Ryb2tlPSIjODg4IiBzdHJva2Utd2lkdGg9IjEiIHN0cm9rZS1kYXNoYXJyYXk9IjQsMyIvPgo8bGluZSB4MT0iMTUwIiB5MT0iMjAwIiB4Mj0iMTUwIiB5Mj0iNDAiIHN0cm9rZT0iIzg4OCIgc3Ryb2tlLXdpZHRoPSIxIiBzdHJva2UtZGFzaGFycmF5PSI0LDMiLz4KPGxpbmUgeDE9IjE1MCIgeTE9IjIwMCIgeDI9IjgwIiB5Mj0iODAiIHN0cm9rZT0iIzg4OCIgc3Ryb2tlLXdpZHRoPSIxIiBzdHJva2UtZGFzaGFycmF5PSI0LDMiLz4KPGNpcmNsZSBjeD0iMTUwIiBjeT0iMTIwIiByPSIyLjUiIGZpbGw9IiMxNjIwMkUiLz4KPHRleHQgeD0iMTQwIiB5PSIzMCIgZm9udC1mYW1pbHk9Ikdlb3JnaWEiIGZvbnQtc2l6ZT0iMTYiPkU8L3RleHQ+Cjx0ZXh0IHg9IjIyNSIgeT0iNzUiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhIiBmb250LXNpemU9IjE2Ij5EPC90ZXh0Pgo8dGV4dCB4PSIyMjUiIHk9IjE3MCIgZm9udC1mYW1pbHk9Ikdlb3JnaWEiIGZvbnQtc2l6ZT0iMTYiPkM8L3RleHQ+Cjx0ZXh0IHg9IjE0MCIgeT0iMjE4IiBmb250LWZhbWlseT0iR2VvcmdpYSIgZm9udC1zaXplPSIxNiI+QjwvdGV4dD4KPHRleHQgeD0iNjAiIHk9IjE3MCIgZm9udC1mYW1pbHk9Ikdlb3JnaWEiIGZvbnQtc2l6ZT0iMTYiPkE8L3RleHQ+Cjx0ZXh0IHg9IjYwIiB5PSI3NSIgZm9udC1mYW1pbHk9Ikdlb3JnaWEiIGZvbnQtc2l6ZT0iMTYiPkY8L3RleHQ+Cjx0ZXh0IHg9IjE1NiIgeT0iMTMyIiBmb250LWZhbWlseT0iR2VvcmdpYSIgZm9udC1zaXplPSIxNSI+TzwvdGV4dD4KPC9zdmc+
+Answer: D
+
+28. The dimension of 1/√(ε₀μ₀) is that of:
+A) Velocity
+B) Time
+C) Capacitance
+D) Distance
+Answer: A
+
+29. Find the resultant of following vectors: |B|=5 at 37° above the −x axis, |A|=10 along +x axis, |C|=11 along −y axis
+A) 8
+B) 6
+C) 10
+D) 20
+Image: data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMjAgMzIwIiB3aWR0aD0iMzIwIiBoZWlnaHQ9IjMyMCI+CjxsaW5lIHgxPSIzMCIgeTE9IjE2MCIgeDI9IjMwMCIgeTI9IjE2MCIgc3Ryb2tlPSIjMTYyMDJFIiBzdHJva2Utd2lkdGg9IjEuNSIvPgo8bGluZSB4MT0iMTYwIiB5MT0iMjAiIHgyPSIxNjAiIHkyPSIzMDAiIHN0cm9rZT0iIzE2MjAyRSIgc3Ryb2tlLXdpZHRoPSIxLjUiLz4KPGxpbmUgeDE9IjE2MCIgeTE9IjE2MCIgeDI9IjI4MCIgeTI9IjE2MCIgc3Ryb2tlPSIjMWE2IiBzdHJva2Utd2lkdGg9IjMiLz4KPHRleHQgeD0iMjg1IiB5PSIxNjUiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhIiBmb250LXNpemU9IjE1Ij58QXw9MTA8L3RleHQ+CjxsaW5lIHgxPSIxNjAiIHkxPSIxNjAiIHgyPSIxMjAiIHkyPSIxMTUiIHN0cm9rZT0iI2MzMyIgc3Ryb2tlLXdpZHRoPSIzIi8+Cjx0ZXh0IHg9IjcwIiB5PSIxMDUiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhIiBmb250LXNpemU9IjE1Ij58Qnw9NTwvdGV4dD4KPHRleHQgeD0iMTMwIiB5PSIxNDAiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhIiBmb250LXNpemU9IjEzIj4zN8KwPC90ZXh0Pgo8bGluZSB4MT0iMTYwIiB5MT0iMTYwIiB4Mj0iMTYwIiB5Mj0iMjcwIiBzdHJva2U9IiMzNmMiIHN0cm9rZS13aWR0aD0iMyIvPgo8dGV4dCB4PSIxNjUiIHk9IjI4NSIgZm9udC1mYW1pbHk9Ikdlb3JnaWEiIGZvbnQtc2l6ZT0iMTUiPnxDfD0xMTwvdGV4dD4KPC9zdmc+
+Answer: C
+
+30. For 10^(at+3), if t is time, then the dimension of a is
+A) [M⁰L⁰T⁰]
+B) [M⁰L⁰T¹]
+C) [M⁰L⁰T⁻¹]
+D) [M⁰L⁻¹T⁰]
+Answer: C
+
+31. The unit vector along î − 2ĵ is:
+A) (î − 2ĵ)/√5
+B) î + ĵ
+C) (î + ĵ)/√2
+D) (î − ĵ)/√5
+Answer: A
+
+32. Two rods have lengths measured as (1.8 ± 0.2) m and (2.3 ± 0.1) m. Calculate their combined length with error limits.
+A) (4.2 ± 0.3) m
+B) (4.1 ± 0.3) m
+C) (4.1 ± 0.4) m
+D) (4.3 ± 0.3) m
+Answer: B
+
+33. If A is a vector of magnitude 5 units due east. What is the magnitude and direction of a vector −5A?
+A) 5 units due east
+B) 25 units due west
+C) 5 units due west
+D) 25 units due east
+Answer: B
+
+34. Velocity (V) of object is given as a function of time (t) and position (x), V = αt + βx + γ then dimension of α, β and γ are:
+A) [LT⁻²], [T⁻¹], [LT⁻²]
+B) [LT⁻²], [T⁻¹], [LT⁻¹]
+C) [LT⁻¹], [LT⁻²], [T⁻¹]
+D) [LT⁻¹], [L], [T]
+Answer: B
+
+35. The angle between the two vectors A = 3î + 4ĵ + 5k̂ and B = 3î + 4ĵ − 5k̂ will be
+A) 90°
+B) 0°
+C) 60°
+D) 45°
+Answer: A
+
+36. A quantity is represented by X = MᵃLᵇTᶜ. The percentage error in measurement of M, L and T are α%, β% and γ% respectively. The percentage error in X would be
+A) (αa + βb + γc)%
+B) (αa + βb + γc)%
+C) (αa − βb − γc)%
+D) (αa + βb − γc)%
+Answer: A
+
+37. A force (2î + 2ĵ) N displaces an object through a displacement (2î − 3ĵ) m. The work (W = F · S) done is:
+A) 2 J
+B) −2 J
+C) 5 J
+D) 13 J
+Answer: B
+
+38. Dimensional formula for coefficient of restitution
+A) [MLT⁻²]
+B) [M⁰L⁰T⁰]
+C) [MLT⁻¹]
+D) [MT⁻²]
+Answer: B
+
+39. Which of the following vector identities is false?
+A) P + Q = Q + P
+B) P × Q = Q × P
+C) P · Q = Q · P
+D) P × Q ≠ Q × P
+Answer: B
+
+40. Two quantities A and B have different dimensions. Which mathematical operation given below is physically meaningful?
+A) A/B
+B) A + B
+C) A − B
+D) None of these
+Answer: A
+
+41. Cross product of two vectors a and b is maximum in magnitude when angle between them is
+A) 0°
+B) 60°
+C) 90°
+D) 45°
+Answer: C
+
+42. If the density of a substance is 2 g/cm³, its value in kg/m³ is:
+A) 2000 kg/m³
+B) 200 kg/m³
+C) 20000 kg/m³
+D) None of these
+Answer: A
+
+43. Which one of the following physical quantities is not a fundamental quantity?
+A) Luminous intensity
+B) Thermodynamic temperature
+C) Electric current
+D) Work
+Answer: D
+
+44. If C and R denote capacitance and resistance, the dimensional formula of CR is
+A) [M⁰L⁰T¹]
+B) [M⁰L⁰T⁰]
+C) [M⁰L⁰T⁻¹]
+D) not expressible in term of MLT
+Answer: A
+
+45. Which of the following graph is correct: n = magnitude of measurement & u = unit of measurement.
+A) n decreases as u increases (hyperbola-type curve) — see image
+B) nu vs u is a horizontal line — see image
+C) nu vs n is a horizontal line — see image
+D) All of these
+Answer: D
+
+46. Find boiling point of deci molal aqueous solution of glucose. (Kb = 0.52 K kg/mole)
+A) 373.052
+B) 473.052
+C) 573.052
+D) 273.052
+Answer: A
+
+47. A solution of acetone in ethanol:
+A) behaves like a near ideal solution
+B) obeys Raoults law
+C) shows a negative deviation from Raoults law
+D) shows a positive deviation from Raoults law
+Answer: D
+
+48. Calculate the concentration in terms of mass by volume percentage of the solution containing, 2.5 g potassium chloride in 50 ml of potassium chloride (KCl) solution?
+A) 25%
+B) 20%
+C) 5%
+D) None of these
+Answer: C
+
+49. Which of the following statements is true about a Raoult's law for an ideal solution?
+A) The total vapour pressure is the sum of the partial pressures.
+B) The partial vapour pressure of each component is proportional to its mole fraction.
+C) The vapour pressure decreases with an increase in mole fraction of solute.
+D) Both (1) and (2)
+Answer: D
+
+50. Correct expression for relative lowering of vapour pressure of a dilute solution.
+A) (P°A−PA)/P°A = nA/(nB−nA)
+B) (P°A−PA)/P°A = nB/(nA+nB)
+C) (P°A−PA)/PA = nB/(nA+nB)
+D) (P°A−PA)/P°A = nB/nA
+Answer: D
+
+51. The vapour pressure of water at 300 K in a closed container is 0.4 atm. If the volume of the container is doubled, its vapour pressure at 300 K will be:
+A) 0.8 atm
+B) 0.2 atm
+C) 0.4 atm
+D) 0.6 atm
+Answer: C
+
+52. Molarity and molality of a solution of caustic soda are respectively 10 M and 100 m. The density of the solution is:
+A) 0.5 g mL⁻¹
+B) 8.2 g mL⁻¹
+C) 1.2 g mL⁻¹
+D) 1.5 g mL⁻¹
+Answer: A
+
+53. Given below are two statements:
+Statement I: Isotonic solutions have same osmotic pressure.
+Statement II: Osmotic pressure is a colligative property.
+In the light of the above statements, choose the most appropriate answer from the options given below:
+A) Both Statement I and Statement II are correct.
+B) Statement I is correct but Statement II is incorrect.
+C) Statement I is incorrect but Statement II is correct.
+D) Both Statement I and Statement II are incorrect.
+Answer: A
+
+54. Match List-I with List-II:
+List-I: (A) Molarity, (B) Molality, (C) Mole fraction, (D) Mass percent
+List-II: (I) Moles of solutes/mass of solvent (kg), (II) Moles of component/total moles, (III) Moles of solute/volume of solution (L), (IV) (Mass of solute/total mass) × 100
+A) A-III, B-I, C-II, D-IV
+B) A-IV, B-III, C-II, D-I
+C) A-II, B-III, C-IV, D-I
+D) A-II, B-I, C-III, D-IV
+Answer: A
+
+55. Out of the following 0.1 molal aqueous solutions which will have maximum freezing point?
+A) Glucose
+B) Potassium chloride
+C) Sodium sulphate
+D) Aluminium sulphate
+Answer: A
+
+56. KH value for He, H₂, N₂, O₂ at 293 K are as follows respectively 144.97, 69.16, 76.48 and 34.86 which gas is least soluble?
+A) He
+B) H₂
+C) N₂
+D) O₂
+Answer: A
+
+57. The boiling point of C₆H₆, CH₃OH, C₆H₅NH₂ and C₆H₅NO₂ are 80°C, 65°C, 184°C and 212°C respectively. Which will show highest vapour pressure at room temperature?
+A) C₆H₆
+B) CH₃OH
+C) C₆H₅NH₂
+D) C₆H₅NO₂
+Answer: B
+
+58. If molality of the dilute solution is doubled, the value of molal depression constant (Kf) will be:
+A) Unchanged
+B) Doubled
+C) Halved
+D) Tripled
+Answer: A
+
+59. Match the Column-I with Column-II to find out the correct option
+Column-I: (A) Binary solution, (B) Raoult's law, (C) Henry's law, (D) Mole fraction
+Column-II: (I) Pa = Pa°Xa, (II) Solution with 2 components, (III) Ratio of moles of a component to total moles, (IV) P = KHX
+A) A-II, B-I, C-IV, D-III
+B) A-IV, B-II, C-I, D-III
+C) A-IV, B-I, C-III, D-II
+D) A-III, B-I, C-IV, D-II
+Answer: A
+
+60. The correct relationship between the boiling points of very dilute solutions of AlCl₃ (t₁) and CaCl₂ (t₂), having the same molar concentration, is:
+A) t₁ = t₂
+B) t₁ > t₂
+C) t₂ > t₁
+D) t₂ ≥ t₁
+Answer: B
+
+61. How much oxygen is dissolved in 100 mL water at 298 K if partial pressure of oxygen is 0.5 atm and KH = 1.4 × 10⁻³ mol/L/atm?
+A) 22.4 mg
+B) 22.4 g
+C) 2.24 g
+D) 2.24 mg
+Answer: D
+
+62. A solution has a 1 : 4 mole ratio of pentane to hexane. The vapour pressures of the pure hydrocarbons at 20°C are 440 mmHg for pentane and 120 mmHg for hexane. The mole fraction of pentane in the vapour phase would be:
+A) 0.200
+B) 0.549
+C) 0.786
+D) 0.478
+Answer: D
+
+63. The freezing point depression of 0.001m Kₓ[Fe(CN)₆] is 7.4 × 10⁻³ K. The value of x is: (Assuming complete dissociation, Kf = 1.85 K kg mol⁻¹ for water)
+A) 4
+B) 3
+C) 2
+D) 1
+Answer: B
+
+64. The solubility of gases in liquids:
+A) increases with increase in pressure and temperature.
+B) decreases with increase in pressure and temperature.
+C) increases with increase in pressure and decrease in temperature.
+D) decreases with increase in pressure and increase in temperature.
+Answer: C
+
+65. A solution containing 10 g per dm³ of urea (molecular mass 60 g mol⁻¹) is isotonic with a 5% solution of a non-volatile solute. The molecular mass of this non-volatile solute is:
+A) 200 g mol⁻¹
+B) 300 g mol⁻¹
+C) 250 g mol⁻¹
+D) 350 g mol⁻¹
+Answer: B
+
+66. 23 g of ethanol is dissolved in 36 g of water. Find mole fraction of ethanol.
+A) 2
+B) 0.5
+C) 0.2
+D) 0.8
+Answer: C
+
+67. For a solution of volatile liquids the partial vapour pressure of each component in solution is directly proportional to:
+A) Molarity
+B) Mole fraction
+C) Molality
+D) Normality
+Answer: B
+
+68. How much the amount of CaCl₂ (i = 2.47) dissolved in 2.5 L of solution such that its osmotic pressure is 0.75 atm at 27°C?
+A) 0.3 mol
+B) 0.03 mol
+C) 3 mol
+D) 0.003 mol
+Answer: B
+
+69. Dissolution of 1.5 g of a non-volatile solute (mol. wt. = 60 g mol⁻¹) in 250 g of a solvent reduces its freezing point by 0.01°C. Find the molal depression constant of the solvent.
+A) 0.01
+B) 0.001
+C) 0.0001
+D) 0.1
+Answer: D
+
+70. What is camphor in N₂ gas an example of?
+A) Solid in liquid solution
+B) Liquid in gas solution
+C) Solid in gas solution
+D) Gas in gas solution
+Answer: C
+
+71. The depression in freezing point of 0.1 M aqueous solution of HCl, CuSO₄ and K₂SO₄ are in the ratio.
+A) 1 : 1 : 1
+B) 1 : 2 : 3
+C) 1 : 1 : 1.5
+D) 2 : 4 : 3
+Answer: C
+
+72. PA and PB are the vapour pressure of pure liquid components, A and B, respectively of an ideal binary solution. If XA represents the mole fraction of component A, the total pressure of the solution will be:
+A) PA + XA(PB − PA)
+B) PA + XA(PA − PB)
+C) PB + XA(PB − PA)
+D) PB + XA(PA − PB)
+Answer: D
+
+73. Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R:
+Assertion A: The molarity of a solution changes with temperature.
+Reason R: Molarity is a colligative property.
+In the light of the above statements, choose the correct answer from the options given below:
+A) A is true but R is false.
+B) A is false but R is true.
+C) Both A and R are true and R is the correct explanation of A.
+D) Both A and R are true but R is NOT the correct explanation of A.
+Answer: A
+
+74. From the given graph at constant temperature, which gas has the least solubility?
+A) gas-D
+B) gas-B
+C) gas-A
+D) gas-C
+Image: data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMjAgMjYwIiB3aWR0aD0iMzIwIiBoZWlnaHQ9IjI2MCI+CjxsaW5lIHgxPSI0MCIgeTE9IjIwIiB4Mj0iNDAiIHkyPSIyMjAiIHN0cm9rZT0iIzE2MjAyRSIgc3Ryb2tlLXdpZHRoPSIxLjUiLz4KPGxpbmUgeDE9IjQwIiB5MT0iMjIwIiB4Mj0iMzAwIiB5Mj0iMjIwIiBzdHJva2U9IiMxNjIwMkUiIHN0cm9rZS13aWR0aD0iMS41Ii8+CjxsaW5lIHgxPSI0MCIgeTE9IjIyMCIgeDI9IjEzMCIgeTI9IjMwIiBzdHJva2U9IiNjMzMiIHN0cm9rZS13aWR0aD0iMiIvPgo8dGV4dCB4PSIxMzIiIHk9IjI4IiBmb250LWZhbWlseT0iR2VvcmdpYSIgZm9udC1zaXplPSIxMyI+Z2FzLUE8L3RleHQ+CjxsaW5lIHgxPSI0MCIgeTE9IjIyMCIgeDI9IjE4MCIgeTI9IjMwIiBzdHJva2U9IiMzYTMiIHN0cm9rZS13aWR0aD0iMiIvPgo8dGV4dCB4PSIxODIiIHk9IjI4IiBmb250LWZhbWlseT0iR2VvcmdpYSIgZm9udC1zaXplPSIxMyI+Z2FzLUI8L3RleHQ+CjxsaW5lIHgxPSI0MCIgeTE9IjIyMCIgeDI9IjIzMCIgeTI9IjMwIiBzdHJva2U9IiMzNmMiIHN0cm9rZS13aWR0aD0iMiIvPgo8dGV4dCB4PSIyMzIiIHk9IjI4IiBmb250LWZhbWlseT0iR2VvcmdpYSIgZm9udC1zaXplPSIxMyI+Z2FzLUM8L3RleHQ+CjxsaW5lIHgxPSI0MCIgeTE9IjIyMCIgeDI9IjI4MCIgeTI9IjMwIiBzdHJva2U9IiNhM2EiIHN0cm9rZS13aWR0aD0iMiIvPgo8dGV4dCB4PSIyNDUiIHk9IjIwIiBmb250LWZhbWlseT0iR2VvcmdpYSIgZm9udC1zaXplPSIxMyI+Z2FzLUQ8L3RleHQ+Cjx0ZXh0IHg9IjAiIHk9IjEyMCIgZm9udC1mYW1pbHk9Ikdlb3JnaWEiIGZvbnQtc2l6ZT0iMTMiPlBhcnRpYWw8L3RleHQ+Cjx0ZXh0IHg9IjAiIHk9IjEzNSIgZm9udC1mYW1pbHk9Ikdlb3JnaWEiIGZvbnQtc2l6ZT0iMTMiPnByZXNzdXJlPC90ZXh0Pgo8dGV4dCB4PSIxNTAiIHk9IjI0NSIgZm9udC1mYW1pbHk9Ikdlb3JnaWEiIGZvbnQtc2l6ZT0iMTQiPlNvbHViaWxpdHk8L3RleHQ+Cjwvc3ZnPg==
+Answer: C
+
+75. A solution is obtained by dissolving 0.2 moles of urea in a litre water. Another solution is obtained by dissolving 0.4 moles of cane-sugar in a litre of water at the same temperature. The lowering of vapour pressure to the first solution is:
+A) Same as that of the second solution
+B) Half to that of the second solution
+C) Double to that of the second solution
+D) None
+Answer: B
+
+76. Calculate the vapour pressure of pure B, if Ptotal = (0.195χA + 0.315) atm at 295 K:
+A) 0.38 atm
+B) 0.04 atm
+C) 0.315 atm
+D) 0.172 atm
+Answer: C
+
+77. Vapour pressure of pure A = 100 torr, moles = 2; vapour pressure of pure B = 80 torr, moles = 3. Total vapour pressure of the mixture is:
+A) 440 torr
+B) 460 torr
+C) 180 torr
+D) 88 torr
+Answer: D
+
+78. Two solutions A and B are separated by semi-permeable membrane. If liquid flows from A to B then:
+A) A is less concentrated than B
+B) A is more concentrated than B
+C) Both have same concentration
+D) None of these
+Answer: A
+
+79. Which of following representations of i (van't Hoff factor) is not correct?
+A) i = Observed colligative property/Expected colligative property
+B) i = Normal molecular mass/Observed molecular mass
+C) i = No. of molecules actually present/Molecules expected to be present
+D) i = Total number of particles taken before association/dissociation ÷ Total number of particles taken after association/dissociation
+Answer: D
+
+80. Which of the following factor(s) affect the solubility of a gaseous solute in the fixed volume of liquid solvent?
+(i) Nature of solute (ii) Temperature (iii) Pressure
+A) (I) and (III) at constant T
+B) (I) and (II) at constant p
+C) Only (III)
+D) Both (1) and (2)
+Answer: D
+
+81. 18 g of glucose is dissolved in 182 g of water. What will be the mass percentage of glucose?
+A) 18%
+B) 9%
+C) 36%
+D) 15%
+Answer: B
+
+82. Given below are two statements:
+Statement I: Colligative properties depends on the number of particles of solute in the solution.
+Statement II: Vapour pressure is a colligative property.
+In the light of the above statements, choose the most appropriate answer from the options given below:
+A) Both Statement I and Statement II are correct.
+B) Statement I is correct but Statement II is incorrect.
+C) Statement I is incorrect but Statement II is correct.
+D) Both Statement I and Statement II are incorrect.
+Answer: B
+
+83. An azeotropic mixture of two liquids has boiling point lower than either of them, when it:
+A) Shows a negative deviation from Raoult's law
+B) Shows no deviation from Raoult's law
+C) Shows positive deviation from Raoult's law
+D) Is saturated
+Answer: C
+
+84. The mass of KCl required to depress the freezing point of 500 g water by 2 K is (Kf = 1.86, K = 39)
+A) 10.01 g
+B) 40.05 g
+C) 7.45 g
+D) 20.03 g
+Answer: D
+
+85. Which one is not equal to zero for an ideal solution?
+A) ΔHmix
+B) ΔSmix
+C) ΔVmix
+D) ΔP = Pobserved − PRaoult
+Answer: B
+
+86. The statement "5% of NaCl in water by mass" means:
+A) 5 g of NaCl is dissolved in 100 g of water
+B) 5 g of NaCl is dissolved in 95 g of water
+C) 5 g of NaCl is dissolved in 1000 g of water
+D) 5 g of NaCl is dissolved in 500 g of water
+Answer: B
+
+87. Total vapour pressure of mixture of 1 mol X (P°X = 150 torr) and 2 mol Y (P°Y = 300 torr) is 240 torr. In this case:
+A) there is a negative deviation from Raoults law.
+B) there is a positive deviation from Raoults law.
+C) there is no deviation from Raoults law.
+D) cannot be decided.
+Answer: A
+
+88. Given below are two statements:
+Statement I: A binary mixture of nitric acid and water shows negative deviation from Raoult's law.
+Statement II: A binary mixture of water and ethanol shows positive deviation from Raoult's law.
+In the light of the above statements, choose the most appropriate answer from the options given below:
+A) Statement I is correct but Statement II is incorrect.
+B) Statement I is incorrect but Statement II is correct.
+C) Both Statement I and Statement II are correct.
+D) Both Statement I and Statement II are incorrect.
+Answer: C
+
+89. The value of Henry's constant KH is _____.
+A) greater for gases with higher solubility.
+B) greater for gases with lower solubility.
+C) constant for all gases.
+D) not related to the solubility of gases.
+Answer: B
+
+90. Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R:
+Assertion (A): The boiling point of a solution is always higher than that of the pure solvent.
+Reason (R): The presence of a solute decreases the vapor pressure of the solvent, thus increasing the boiling point.
+In the light of the above statements, choose the correct answer from the options given below:
+A) Both A and R are correct, and R is the correct explanation of A.
+B) Both A and R are correct, but R is not the correct explanation of A.
+C) A is correct, but R is incorrect.
+D) A is incorrect, but R is correct.
+Answer: A
+
+91. The most dramatic period of the cell cycle is:
+A) interphase.
+B) G₀ phase.
+C) M phase.
+D) interkinesis.
+Answer: C
+
+92. Find the mismatched pair.
+A) Interphase - represents the phase between two successive M phases.
+B) Yeast cells - Divide in about every 90 minutes.
+C) Human cells in culture - Divide in every 120 minutes.
+D) M Phase - Phase of cell cycle when the actual cell division occurs.
+Answer: C
+
+93. Proteins are synthesised in preparation for mitosis during the:
+A) G₀ phase.
+B) G₁ phase.
+C) S phase.
+D) G₂ phase.
+Answer: D
+
+94. Identify the correct statement regarding meiosis.
+A) It results in the production of four daughter cells with identical genetic complement.
+B) It increases the genetic variability in the population of organisms from one generation to the next.
+C) It is found in male honey bees.
+D) A dyad of cells forms after telophase II.
+Answer: B
+
+95. Given below are two statements:
+Statement I: Each centrosome radiates out microtubules called asters.
+Statement II: The two asters together with spindle fibres form the mitotic apparatus.
+In the light of the above statements, choose the most appropriate answer from the options given below:
+A) Statement I is correct but Statement II is incorrect.
+B) Statement I is incorrect but Statement II is correct.
+C) Both Statement I and Statement II are correct.
+D) Both Statement I and Statement II are incorrect.
+Answer: C
+
+96. Recombinase enzyme is involved in:
+A) synapsis.
+B) crossing over.
+C) terminalisation of chiasmata.
+D) dissolution of synaptonemal complex.
+Answer: B
+
+97. In the final stage of karyokinesis:
+A) condensation of the chromosomes takes place.
+B) chromosomes decondense at their respective poles.
+C) spindle fibres attach to kinetochores of chromosomes.
+D) centromeres split and chromatids separate.
+Answer: B
+
+98. The M phase of cell cycle usually ends with the:
+A) replication of DNA.
+B) division of cytoplasm.
+C) nuclear division.
+D) duplication of centriole.
+Answer: B
+
+99. Choose the incorrect statement w.r.t the prophase of mitosis.
+A) Chromosomal material condenses to form compact mitotic chromosomes.
+B) Chromosomes are seen to be composed of two chromatids attached together at the centromere.
+C) Centrosome which had undergone duplication during interphase, begins to move towards opposite poles of the cell.
+D) Nucleolus, Golgi complex and endoplasmic reticulum reform.
+Answer: D
+
+100. Match List-I with List-II.
+List-I: (A) Prophase I, (B) Prophase II, (C) Telophase I, (D) Anaphase II
+List-II: (I) Splitting of centromere, (II) Typically longer and more complex than mitotic prophase, (III) Initiates after a short lived intermediate stage, (IV) Followed by cytokinesis
+A) A-III, B-I, C-II, D-IV
+B) A-III, B-II, C-I, D-IV
+C) A-II, B-III, C-IV, D-I
+D) A-II, B-III, C-I, D-IV
+Answer: C
+
+101. Find the mismatched pair.
+A) Metaphase I - Bivalent chromosomes align on the equatorial plate
+B) Prophase II - The nuclear membrane disappears by the end of prophase
+C) Anaphase I - Sister chromatids separate
+D) Telophase II - Meiosis ends with telophase II
+Answer: C
+
+102. Choose the incorrect statement w.r.t the meiosis.
+A) Meiosis ensures the production of haploid phase in the life cycle of sexually reproducing organisms.
+B) Meiosis involves two sequential cycles of nuclear and cell division called meiosis I and meiosis II but only a single cycle of DNA replication.
+C) Meiosis I is initiated after the parental chromosomes have replicated to produce identical sister chromatids at the S phase.
+D) Meiosis involves pairing of non homologous chromosomes and recombination between sister chromatids of non homologous chromosomes.
+Answer: D
+
+103. From the given set of the phases, how many are present in interphase?
+[Gap-1 phase, Metaphase, Mitosis phase, Telophase, Synthesis phase]
+A) Two
+B) Three
+C) Four
+D) One
+Answer: A
+
+104. Identify the incorrect statement w.r.t prophase.
+A) Marked by the initiation of condensation of chromosomal material.
+B) The chromosomal material becomes untangled during the process.
+C) Disintegration of nuclear envelope initiates in this stage.
+D) The chromosomes are spread through the cytoplasm of the cell.
+Answer: D
+
+105. Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R:
+Assertion A: Liquid endosperm in coconut shows syncytium.
+Reason R: In liquid endosperm karyokinesis is not followed by cytokinesis as a result of which multinucleate condition arises.
+In the light of the above statements, choose the correct answer from the options given below:
+A) A is true but R is false.
+B) A is false but R is true.
+C) Both A and R are true and R is the correct explanation of A.
+D) Both A and R are true but R is NOT the correct explanation of A.
+Answer: C
+
+106. In which of the following phases of cell cycle does splitting of centromere occur?
+A) Anaphase of mitosis and Anaphase II of meiosis
+B) Anaphase I of meiosis and Anaphase II of meiosis
+C) Metaphase of mitosis and Metaphase II of meiosis
+D) Anaphase of mitosis and Anaphase I of meiosis
+Answer: A
+
+107. During the G₁ phase, all are correct except:
+A) replication of DNA.
+B) the cell is metabolically active.
+C) cell continuously grows.
+D) synthesise most of the organelle.
+Answer: A
+
+108. Bivalents or tetrads are more clearly visible at:
+A) pachytene.
+B) zygotene.
+C) diakinesis.
+D) diplotene.
+Answer: A
+
+109. Identify the incorrect statement from the following.
+A) A very significant contribution of mitosis is cell repair.
+B) The growth of multicellular organisms is due to meiosis.
+C) Gametes are formed from specialised diploid cells.
+D) Meiosis includes meiosis I and meiosis II.
+Answer: B
+
+110. Consider the following statements regarding the significance of mitosis and choose the correct option.
+A. It occurs in apical meristem in plants.
+B. Haploid cells divide by mitosis in male honey bees.
+C. It is a method of replacing old or worn-out cells.
+D. It occurs in lateral meristem in plants.
+The correct statements are:
+A) A, B, C, and D
+B) A, B, and C
+C) A and C only
+D) B and D only
+Answer: A
+
+111. Match List-I with List-II:
+List-I: (A) Terminalisation of chaismata, (B) Synapsis, (C) Chiasmata, (D) Synaptonemal complex
+List-II: (I) Pairing of homologous chromosomes, (II) Point of attachment between homologous chromosomes, (III) Nuclear protein complex that helps in adherence of homologous chromosomes, (IV) Shifting of chiasmata outwards towards the ends of a bivalent
+A) A-III, B-IV, C-II, D-I
+B) A-IV, B-II, C-III, D-I
+C) A-II, B-IV, C-III, D-I
+D) A-IV, B-I, C-II, D-III
+Answer: D
+
+112. Anaphase I differs from anaphase of mitosis as in the former:
+A) separation of homologous chromosomes occurs.
+B) splitting of the centromere occurs.
+C) shortening of microtubules occurs.
+D) chromatids move to opposite poles.
+Answer: A
+
+113. Read the following statement w.r.t. cell cycle:
+A. M-phase is also called the resting phase because replication does not occur during this phase.
+B. Interphase is the phase during which the cell is preparing for division.
+C. The interphase is divided into four prominent phases, i.e., G₀, G₁, S and G₂ phases.
+D. The M phase starts with the nuclear division, usually ends with division of cytoplasm.
+The option with incorrect statement is
+A) A and B
+B) A and C
+C) B and D
+D) C and D
+Answer: B
+
+114. If the number of bivalents are 8 in metaphase-I, what shall be the number of chromosomes in daughter cells after meiosis-I and meiosis-II respectively?
+A) 8 and 4
+B) 4 and 4
+C) 8 and 8
+D) 16 and 8
+Answer: C
+
+115. Regarding the events of Prophase I of meiosis.
+A. Chromosomes start pairing together in the zygotene stage in a process called synapsis.
+B. Crossing over occurs between non-sister chromatids of homologous chromosomes during the pachytene stage.
+C. The synaptonemal complex dissolves, and X-shaped structures called chiasmata become visible during diplotene.
+D. The beginning of diplotene is recognised by the terminalisation of chiasmata.
+E. Leptotene, zygotene, and pachytene are relatively short-lived compared to diplotene and diakinesis.
+How many of the following statements are correct?
+A) Two only
+B) Three only
+C) Four only
+D) One only
+Answer: B
+
+116. A stage of mitosis is shown in the diagram. Which stage is it and what are its characteristics?
+A) Anaphase - Chromatids move to opposite poles
+B) Metaphase - Spindle fibres attached to chromosome
+C) Late prophase - Nuclear membrane, nucleolus, golgi complexes and ER disappeared
+D) Transition to metaphase - Spindle fibres attached to kinetochores of chromosomes
+Image: data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMDAgMjYwIiB3aWR0aD0iMzAwIiBoZWlnaHQ9IjI2MCI+CjxjaXJjbGUgY3g9IjE1MCIgY3k9IjEzMCIgcj0iMTEwIiBmaWxsPSIjZmRmNmUzIiBzdHJva2U9IiMxNjIwMkUiIHN0cm9rZS13aWR0aD0iMS41Ii8+CjxjaXJjbGUgY3g9IjE1MCIgY3k9IjMwIiByPSI2IiBmaWxsPSIjYzMzIi8+CjxjaXJjbGUgY3g9IjE1MCIgY3k9IjIzMCIgcj0iNiIgZmlsbD0iI2MzMyIvPgo8ZyBzdHJva2U9IiNjMzMiIHN0cm9rZS13aWR0aD0iMC43Ij4KPGxpbmUgeDE9IjE1MCIgeTE9IjMwIiB4Mj0iOTAiIHkyPSI5MCIvPgo8bGluZSB4MT0iMTUwIiB5MT0iMzAiIHgyPSIxNTAiIHkyPSI5MCIvPgo8bGluZSB4MT0iMTUwIiB5MT0iMzAiIHgyPSIyMTAiIHkyPSI5MCIvPgo8bGluZSB4MT0iMTUwIiB5MT0iMjMwIiB4Mj0iOTAiIHkyPSIxNzAiLz4KPGxpbmUgeDE9IjE1MCIgeTE9IjIzMCIgeDI9IjE1MCIgeTI9IjE3MCIvPgo8bGluZSB4MT0iMTUwIiB5MT0iMjMwIiB4Mj0iMjEwIiB5Mj0iMTcwIi8+CjwvZz4KPHBhdGggZD0iTSA5MCAxMDAgcSAyMCAtMTAgMjAgMTAgcSAwIDIwIC0yMCAxMCB6IiBmaWxsPSIjMzM1NWFhIi8+CjxwYXRoIGQ9Ik0gMjEwIDEwMCBxIC0yMCAtMTAgLTIwIDEwIHEgMCAyMCAyMCAxMCB6IiBmaWxsPSIjMzM1NWFhIi8+CjxwYXRoIGQ9Ik0gOTAgMTYwIHEgMjAgMTAgMjAgLTEwIHEgMCAtMjAgLTIwIC0xMCB6IiBmaWxsPSIjYzMzMzU1Ii8+CjxwYXRoIGQ9Ik0gMjEwIDE2MCBxIC0yMCAxMCAtMjAgLTEwIHEgMCAtMjAgMjAgLTEwIHoiIGZpbGw9IiNjMzMzNTUiLz4KPC9zdmc+
+Answer: D
+
+117. M phase is also called as equational division because;
+A) the amount of DNA per cell doubles in progeny.
+B) the number of chromosomes in the parent and progeny cells remain the same.
+C) two sequential cycles of nuclear and cell division take place.
+D) it has long prophase.
+Answer: B
+
+118. Choose the incorrect statement w.r.t the telophase I of meiosis I.
+A) The nuclear membrane and nucleolus reappear.
+B) Cytokinesis follows and this is called as tetrad of cells.
+C) In many cases the chromosomes do undergo some dispersion.
+D) Chromosomes do not reach the extremely extended state of the interphase nucleus.
+Answer: B
+
+119. The five phases of prophase-I are subdivided on the basis of:
+A) the number of chromatids.
+B) the position of the kinetochore.
+C) chromosomal behaviour.
+D) the position of the centromere.
+Answer: C
+
+120. A bivalent is:
+A) two daughter cells after meiosis I.
+B) a duplicated chromosome composed of sister chromatids.
+C) paired homologous chromosomes.
+D) paired non-homologous chromosomes.
+Answer: C
+
+121. Electron micrographs of ___A___ stage indicate that chromosome synapsis is accompanied by the formation of complex structure called ___B___.
+Select the correct option to fill in the blanks.
+A) A = pachytene, B = recombination nodule
+B) A = diplotene, B = chiasmata
+C) A = zygotene, B = synaptonemal complex
+D) A = diakinesis, B = metaphase plate
+Answer: C
+
+122. Tetrads are seen during:
+A) metaphase II of meiosis.
+B) anaphase I of meiosis.
+C) prophase I of meiosis.
+D) All of these.
+Answer: C
+
+123. Identify the correct statements from the following.
+A. Cell-plate formed during cytokinesis represents the middle lamella.
+B. In plant cells, wall formation starts in the centre of the cell and grows outward to meet the existing lateral walls.
+C. A very significant contribution of meiosis is cell repair.
+D. Mitotic divisions in the meristematic tissues – the apical and the lateral cambium, result in a continuous growth of plants throughout their life.
+Choose the most appropriate answer from the options given below:
+A) A and C only
+B) A, B and D only
+C) B and D only
+D) All A, B, C and D
+Answer: B
+
+124. A, B and C are three stages in the mitosis as given in diagrams:
+The correct sequence of events that occurs during mitosis is:
+A) A → C → B.
+B) A → B → C.
+C) C → A → B.
+D) C → B → A.
+Image: data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MjAgMjAwIiB3aWR0aD0iNTIwIiBoZWlnaHQ9IjIwMCI+CjxjaXJjbGUgY3g9IjkwIiBjeT0iMTAwIiByPSI3NSIgZmlsbD0iI2ZkZjBkNSIgc3Ryb2tlPSIjMTYyMDJFIiBzdHJva2Utd2lkdGg9IjEuNSIvPgo8cGF0aCBkPSJNIDYwIDcwIHEgMzAgLTEwIDIwIDMwIHEgLTEwIDMwIC00MCAxMCB6IiBmaWxsPSIjOEI0NTEzIi8+Cjx0ZXh0IHg9Ijc1IiB5PSIxOTUiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhIiBmb250LXNpemU9IjE1Ij5BPC90ZXh0PgoKPGNpcmNsZSBjeD0iMjYwIiBjeT0iMTAwIiByPSI3NSIgZmlsbD0iI2ZkZjBkNSIgc3Ryb2tlPSIjMTYyMDJFIiBzdHJva2Utd2lkdGg9IjEuNSIvPgo8bGluZSB4MT0iMjYwIiB5MT0iNDAiIHgyPSIyNjAiIHkyPSIxNjAiIHN0cm9rZT0iIzg4OCIgc3Ryb2tlLXdpZHRoPSIxIiBzdHJva2UtZGFzaGFycmF5PSIzLDMiLz4KPHBhdGggZD0iTSAyNTAgOTAgcSAxMCAtOCAxMCA4IHEgMCA4IC0xMCA4IHoiIGZpbGw9IiMzMzU1YWEiLz4KPHBhdGggZD0iTSAyNzAgOTAgcSAtMTAgLTggLTEwIDggcSAwIDggMTAgOCB6IiBmaWxsPSIjYzMzMzU1Ii8+Cjx0ZXh0IHg9IjI1NSIgeT0iMTk1IiBmb250LWZhbWlseT0iR2VvcmdpYSIgZm9udC1zaXplPSIxNSI+QjwvdGV4dD4KCjxjaXJjbGUgY3g9IjQzMCIgY3k9IjEwMCIgcj0iNzUiIGZpbGw9IiNmZGYwZDUiIHN0cm9rZT0iIzE2MjAyRSIgc3Ryb2tlLXdpZHRoPSIxLjUiLz4KPHBhdGggZD0iTSA0MTAgNzAgcSA4IC02IDggOCBxIDAgOCAtOCA2IHoiIGZpbGw9IiMzMzU1YWEiLz4KPHBhdGggZD0iTSA0MTAgMTAwIHEgOCAtNiA4IDggcSAwIDggLTggNiB6IiBmaWxsPSIjMzM1NWFhIi8+CjxwYXRoIGQ9Ik0gNDUwIDcwIHEgLTggLTYgLTggOCBxIDAgOCA4IDYgeiIgZmlsbD0iI2MzMzM1NSIvPgo8cGF0aCBkPSJNIDQ1MCAxMDAgcSAtOCAtNiAtOCA4IHEgMCA4IDggNiB6IiBmaWxsPSIjYzMzMzU1Ii8+Cjx0ZXh0IHg9IjQyNSIgeT0iMTk1IiBmb250LWZhbWlseT0iR2VvcmdpYSIgZm9udC1zaXplPSIxNSI+QzwvdGV4dD4KPC9zdmc+
+Answer: B
+
+125. All are the features of interkinesis, except:
+A) the stage occurs between the two meiotic divisions.
+B) it is generally short lived.
+C) replication of DNA takes place.
+D) it is followed by prophase II.
+Answer: C
+
+126. The sequence of events by which a cell duplicates its genome, synthesises the other constituents of the cell and eventually divides into two daughter cells is termed:
+A) cell cycle.
+B) mitosis.
+C) interphase.
+D) meiosis.
+Answer: A
+
+127. During cell division, four haploid daughter cells are formed at the end of:
+A) meiosis II.
+B) meiosis I.
+C) mitosis.
+D) prophase II.
+Answer: A
+
+128. Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R:
+Assertion A: Heart cells are the cells in the adult animals that do not appear to exhibit division.
+Reason R: Heart cells exit G₂ phase to enter G₀ of the cell cycle.
+In the light of above statements, choose the correct answer from the options given below:
+A) A is true but R is false.
+B) A is false but R is true.
+C) Both A and R are true and R is the correct explanation of A.
+D) Both A and R are true but R is NOT the correct explanation of A.
+Answer: A
+
+129. A cell with 48 chromosomes and 2C DNA content undergoes mitosis. What will be the chromosome number and DNA content in each daughter nucleus at telophase?
+A) 48 chromosomes, 2C DNA
+B) 96 chromosomes, 2C DNA
+C) 96 chromosomes, 4C DNA
+D) 48 chromosomes, 4C DNA
+Answer: A
+
+130. Identify the incorrect statements about G₀ phase.
+A. This stage is also called quiescent stage.
+B. These cells have exited from the G₂ phase of the cell cycle.
+C. Heart cells generally remain in this stage.
+D. Cells in this stage can proliferate when conditions require replacing cells that have been lost due to injury or cell death.
+E. Cells in this stage remain metabolically active.
+Choose the correct answer from the options given below:
+A) A, B, C and E only
+B) B only
+C) A and B only
+D) All except B
+Answer: B
+
+131. Resting phase of cell cycle;
+A) starts with the nuclear division.
+B) usually ends with division of cytoplasm.
+C) is the time during which the cell is preparing for division.
+D) is when the actual cell division takes place.
+Answer: C
+
+132. Identify the mismatched pair.
+A) Gap 1 - It occurs between M phase and S phase
+B) Gap 2 - It occurs between S phase and M phase
+C) Interphase - It occurs between two successive M phases
+D) M phase - It occurs between karyokinesis and cytokinesis
+Answer: D
+
+133. Identify the correct statement/s from the following by studying the given diagram of equational division.
+A. This stage can last for months and years in oocytes of some vertebrates.
+B. Dissolution of synaptonemal complex characterises this stage.
+C. Four chromatids of each bivalent chromosome become distinct and clearly appear in this phase.
+D. Chromosomes are seen to be composed of two chromatids attached together at the centromere.
+A) C and D only
+B) D only
+C) A, B, and C only
+D) A, B, C, and D
+Image: data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNjAgMjQwIiB3aWR0aD0iMjYwIiBoZWlnaHQ9IjI0MCI+CjxjaXJjbGUgY3g9IjEzMCIgY3k9IjEyMCIgcj0iMTAwIiBmaWxsPSIjZjVkNWI4IiBzdHJva2U9IiMxNjIwMkUiIHN0cm9rZS13aWR0aD0iMS41Ii8+CjxjaXJjbGUgY3g9IjEzMCIgY3k9IjEyMCIgcj0iNjUiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2EwNjg0MCIgc3Ryb2tlLXdpZHRoPSIxIi8+CjxwYXRoIGQ9Ik0gMTAwIDkwIHEgMTUgLTEwIDE1IDEwIHEgMCAxNSAtMTUgOCBxIC01IC0xMCAwIC0xOCB6IiBmaWxsPSIjMzM1NWFhIi8+CjxwYXRoIGQ9Ik0gMTU1IDE0NSBxIC0xNSAxMCAtMTUgLTEwIHEgMCAtMTUgMTUgLTggcSA1IDEwIDAgMTggeiIgZmlsbD0iI2MzMzM1NSIvPgo8L3N2Zz4=
+Answer: B
+
+134. Which of the followings are key events of telophase?
+I. Golgi complex and endoplasmic reticulum reform.
+II. Chromatids move to opposite poles.
+III. Chromosomes cluster at opposite poles and their identity is lost as discrete elements.
+IV. Nuclear envelope develops around the chromosome clusters at each pole forming two daughter nuclei.
+Choose the most appropriate answer from the options given below:
+A) I and II only
+B) II only
+C) I, III and IV only
+D) II, III and IV only
+Answer: C
+
+135. Given below are two statements:
+One is labelled as Assertion A and the other is labelled as Reason R:
+Assertion A: In an animal cell, cytokinesis is achieved by the appearance of a furrow in the plasma membrane.
+Reason R: During karyokinesis in animal cells, the furrow gradually deepens and ultimately joins in the centre dividing the cell cytoplasm into two.
+In the light of the above statements, choose the correct answer from the options given below:
+A) A is true but R is false.
+B) A is false but R is true.
+C) Both A and R are correct and R is the correct explanation of A.
+D) Both A and R are correct but R is NOT the correct explanation of A.
+Answer: A
+
+136. Which of the following factors primarily accounts for the faster diffusion of CO₂ across the alveolar membrane compared to O₂?
+A) Higher molecular weight of CO₂ than O₂
+B) Greater solubility of CO₂ in plasma than O₂
+C) Higher partial pressure gradient of CO₂ than O₂
+D) Presence of haemoglobin in red blood cells
+Answer: B
+
+137. Match List-I with List-II.
+List-I: (A) TV, (B) IRV, (C) ERV, (D) RV
+List-II: (I) 1200 ml, (II) 3000 ml, (III) 500 ml, (IV) 1100 ml
+A) A-III, B-IV, C-I, D-II
+B) A-I, B-II, C-III, D-IV
+C) A-III, B-II, C-IV, D-I
+D) A-IV, B-I, C-II, D-III
+Answer: C
+
+138. The diffusion membrane for gas exchange in the lungs is made up of three major layers. Which of the following is not one of these layers?
+A) The thin squamous epithelium of alveoli
+B) The endothelium of alveolar capillaries
+C) The basement substance between them
+D) The thick layer of smooth muscle of the alveoli
+Answer: D
+
+139. Choose the correct set from the following.
+A) pO₂ in systemic vein > pO₂ in systemic artery
+B) pCO₂ in alveoli = pO₂ in tissue
+C) pO₂ in alveoli > pO₂ in atmospheric air
+D) pCO₂ in alveoli < pCO₂ in systemic artery
+Answer: B
+
+140. Match List I with List II.
+List I: (A) Tracheal respiration, (B) Branchial respiration, (C) Pulmonary respiration, (D) Cutaneous respiration
+List II: (I) Amphibians, (II) Insects, (III) Aquatic arthropods, (IV) Terrestrial organisms
+A) A-II, B-I, C-IV, D-III
+B) A-I, B-IV, C-II, D-III
+C) A-III, B-I, C-IV, D-II
+D) A-II, B-III, C-IV, D-I
+Answer: D
+
+141. Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R:
+Assertion A: Mechanisms of breathing vary among different groups of animals.
+Reason R: Mechanisms of breathing depends mainly on their habitats and levels of organisation of animals.
+In the light of the above statements, choose the correct answer from the options given below:
+A) A is true but R is false.
+B) A is false but R is true.
+C) Both A and R are true and R is the correct explanation of A.
+D) Both A and R are true but R is not the correct explanation of A.
+Answer: C
+
+142. Read the following statements (I-IV) w.r.t. pleura.
+I. It is double-layered and covers the lungs.
+II. Fluid between the layers reduces friction on lung-surface.
+III. The outer layer is in contact with the thoracic wall.
+IV. The inner layer is in contact with the lungs.
+Which of the above statements are correct?
+A) I and II only
+B) II and III only
+C) III and IV only
+D) I, II, III and IV
+Answer: D
+
+143. Refer to the given diagram of the human respiratory system with labels I, II, III and IV (trachea, bronchi, bronchioles, alveoli). Which of the following structures is the actual site of exchange of gases?
+A) I – Trachea
+B) II – Bronchi
+C) III – Bronchioles
+D) IV – Alveoli
+Image: data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMDAgMzIwIiB3aWR0aD0iMzAwIiBoZWlnaHQ9IjMyMCI+CjxsaW5lIHgxPSIxNTAiIHkxPSIxMCIgeDI9IjE1MCIgeTI9IjkwIiBzdHJva2U9IiMxNjIwMkUiIHN0cm9rZS13aWR0aD0iMTAiLz4KPHRleHQgeD0iMTYwIiB5PSI0MCIgZm9udC1mYW1pbHk9Ikdlb3JnaWEiIGZvbnQtc2l6ZT0iMTQiPkk8L3RleHQ+CjxwYXRoIGQ9Ik0xNTAgOTAgTDEwMCAxNTAgTDEwMCAyNjAgUTEwMCAyOTAgMTQwIDI5MCBMIDE3MCAyOTAgUSAyMDAgMjkwIDIwMCAyNjAgTDIwMCAxNTAgWiIgZmlsbD0iI2Y1YjhjOCIgc3Ryb2tlPSIjMTYyMDJFIiBzdHJva2Utd2lkdGg9IjEuNSIvPgo8bGluZSB4MT0iMTUwIiB5MT0iOTAiIHgyPSIxMTAiIHkyPSIxNDAiIHN0cm9rZT0iIzE2MjAyRSIgc3Ryb2tlLXdpZHRoPSI2Ii8+CjxsaW5lIHgxPSIxNTAiIHkxPSI5MCIgeDI9IjE5MCIgeTI9IjE0MCIgc3Ryb2tlPSIjMTYyMDJFIiBzdHJva2Utd2lkdGg9IjYiLz4KPHRleHQgeD0iNzAiIHk9IjEzMCIgZm9udC1mYW1pbHk9Ikdlb3JnaWEiIGZvbnQtc2l6ZT0iMTQiPklJPC90ZXh0Pgo8ZyBzdHJva2U9IiNhODMyNDYiIHN0cm9rZS13aWR0aD0iMS41IiBmaWxsPSJub25lIj4KPHBhdGggZD0iTTExMCAxNDAgcSAtMTAgMjAgMCA0MCBxIC0xMCAyMCAwIDQwIi8+CjxwYXRoIGQ9Ik0xOTAgMTQwIHEgMTAgMjAgMCA0MCBxIDEwIDIwIDAgNDAiLz4KPC9nPgo8dGV4dCB4PSI2MCIgeT0iMjAwIiBmb250LWZhbWlseT0iR2VvcmdpYSIgZm9udC1zaXplPSIxNCI+SUlJPC90ZXh0Pgo8Y2lyY2xlIGN4PSIxMzAiIGN5PSIyMzAiIHI9IjYiIGZpbGw9IiNjMzMiLz4KPGNpcmNsZSBjeD0iMTcwIiBjeT0iMjQwIiByPSI2IiBmaWxsPSIjYzMzIi8+CjxjaXJjbGUgY3g9IjE0NSIgY3k9IjI1NSIgcj0iNiIgZmlsbD0iI2MzMyIvPgo8dGV4dCB4PSIyMTUiIHk9IjIzNSIgZm9udC1mYW1pbHk9Ikdlb3JnaWEiIGZvbnQtc2l6ZT0iMTQiPklWPC90ZXh0Pgo8Y2lyY2xlIGN4PSIxNTAiIGN5PSIxODAiIHI9IjE4IiBmaWxsPSIjYzMzIiBvcGFjaXR5PSIwLjciLz4KPC9zdmc+
+Answer: D
+
+144. Considering the pathway (nasal chamber → pharynx → larynx → trachea), in which region does the path of air exclusively diverge from the path of food?
+A) In the nasal chamber.
+B) In the pharynx.
+C) At the opening of the larynx.
+D) Within the trachea.
+Answer: C
+
+145. Which of the following correctly matches the respiratory structure with its description?
+A) Epiglottis – Thin, elastic cartilaginous flap preventing food entry into larynx
+B) Alveoli – Double-layered membrane covering the lungs
+C) Pleura – Vascularised bag-like structures for gas exchange
+D) Trachea – Terminal sacs for gas exchange
+Answer: A
+
+146. Which of the following statements is incorrect w.r.t. Human respiratory system?
+A) Larynx is a bony box which helps in sound production.
+B) Pharynx is the common passage for food and air.
+C) Glottis can be covered by a thin elastic cartilaginous flap called epiglottis.
+D) Each terminal bronchiole gives rise to alveoli.
+Answer: A
+
+147. Arrange the following steps of respiration in a correct sequential order.
+A. Diffusion of gases across alveolar membrane.
+B. Utilisation of O₂ by cells for cellular respiration.
+C. Diffusion of gases between blood and tissues.
+D. Transport of gases by blood.
+E. Pulmonary ventilation.
+A) E → A → D → C → B
+B) C → A → D → E → B
+C) E → B → D → A → C
+D) A → C → E → D → B
+Answer: A
+
+148. Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R:
+Assertion A: The lungs are located in the abdominal cavity, which is an air-tight chamber.
+Reason R: Changes in thoracic cavity volume directly affect pulmonary volume, aiding breathing.
+In the light of the above statements, choose the correct answer from the options given below:
+A) A is true but R is false.
+B) A is false but R is true.
+C) Both A and R are true and R is the correct explanation of A.
+D) Both A and R are true but R is not the correct explanation of A.
+Answer: B
+
+149. Given below are two statements:
+Statement I: Trachea divides at the level of 5th thoracic vertebra into a right and left primary bronchioles.
+Statement II: The initial bronchioles are supported by incomplete cartilaginous rings.
+In light of the above statements, choose the most appropriate answer from the options given below:
+A) Statement I is correct, but Statement II is incorrect.
+B) Statement I is incorrect but Statement II is correct.
+C) Both Statement I and Statement II are correct.
+D) Both Statement I and Statement II are incorrect.
+Answer: B
+
+150. The conducting part of respiratory passage cannot:
+A) humidify the inhaled air.
+B) clean the inspired air.
+C) perform gaseous exchange.
+D) warm up the air.
+Answer: C
+
+151. Mammalian lungs have an enormous number of minute alveoli (air sacs). This is to allow
+A) more surface area for diffusion of gases
+B) more space for increasing the volume of inspired air
+C) more nerve supply to keep the lungs working
+D) more spongy texture for keeping the lungs in proper shape
+Answer: A
+
+152. Which of the following muscles does not contribute to creating a pressure gradient between the atmosphere and the alveoli?
+A) Cardiac muscles
+B) Diaphragm muscles
+C) Internal intercostal muscles
+D) External intercostal muscles
+Answer: A
+
+153. Select the incorrect statement.
+A) In normal man, resting breathing rate is 12–16/min.
+B) Larynx is a cartilaginous box which helps in sound production and hence called the sound box.
+C) The anatomical arrangement of the lungs within the thorax is such that changes in the volume of the thoracic cavity do not directly affect the volume of the lung (pulmonary) cavity.
+D) Pharynx is common passage to both air and food.
+Answer: C
+
+154. Choose the correct statement.
+A) Lungs are covered by pericardium.
+B) Pleural fluid reduces friction on the lung-surface.
+C) The thoracic chamber is formed ventrally by the vertebral column.
+D) Diaphragm is S-shaped.
+Answer: B
+
+155. What are the characteristics of alveoli?
+A) Very thin, irregular walled and highly vascularised
+B) Thick and smooth membrane
+C) Network of blood capillaries and thick-walled
+D) Thick, regular walled and lack of blood vessels
+Answer: A
+
+156. Contraction of diaphragm results in:
+A) increase in the volume of thoracic chamber in antero-posterior axis.
+B) increase in the volume of thoracic chamber in dorso-ventral axis.
+C) decrease in the volume of thoracic chamber in antero-posterior axis.
+D) decrease in the volume of thoracic chamber in dorso-ventral axis.
+Answer: A
+
+157. Which of the following statements regarding human respiration is correct?
+A) A healthy adult human performs approximately 8–10 inhalations per minute under resting conditions.
+B) Respiration in humans involves exchange of gases only through the skin in normal conditions.
+C) On average, a healthy adult human breathes 12–16 times per minute.
+D) The number of breaths per minute is independent of physical activity.
+Answer: C
+
+158. The given below diagram shows mechanisms of inspiration with labels I, II, III and IV. Identify the labelled part along with their functions and select the correct option.
+A) I-Volume of thorax decreased.
+B) II-Diaphragm relaxed and arched upward.
+C) III-Ribs and sternum raised.
+D) IV-Air exhaled during respiration.
+Image: data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMDAgMzIwIiB3aWR0aD0iMzAwIiBoZWlnaHQ9IjMyMCI+CjxwYXRoIGQ9Ik02MCA0MCBMNjAgMjQwIFE2MCAyNzAgMTAwIDI4MCBMMjAwIDI4MCBRMTcwIDI2MCAxNzAgMjIwIEwxNzAgNjAgWiIgZmlsbD0iI2U4OCIgc3Ryb2tlPSIjMTYyMDJFIiBzdHJva2Utd2lkdGg9IjEuNSIvPgo8bGluZSB4MT0iODAiIHkxPSI2MCIgeDI9IjgwIiB5Mj0iMjQwIiBzdHJva2U9IiMxNjIwMkUiIHN0cm9rZS13aWR0aD0iMiIvPgo8dGV4dCB4PSIyMzAiIHk9IjYwIiBmb250LWZhbWlseT0iR2VvcmdpYSIgZm9udC1zaXplPSIxNCI+SVY8L3RleHQ+CjxsaW5lIHgxPSIyMjgiIHkxPSI2NSIgeDI9IjE3MCIgeTI9IjkwIiBzdHJva2U9IiMxNjIwMkUiIHN0cm9rZS13aWR0aD0iMSIvPgo8dGV4dCB4PSIxMCIgeT0iMTUwIiBmb250LWZhbWlseT0iR2VvcmdpYSIgZm9udC1zaXplPSIxNCI+SUlJPC90ZXh0Pgo8bGluZSB4MT0iMzAiIHkxPSIxNTAiIHgyPSI3MCIgeTI9IjE1MCIgc3Ryb2tlPSIjMTYyMDJFIiBzdHJva2Utd2lkdGg9IjEiLz4KPHRleHQgeD0iMTAiIHk9IjI0MCIgZm9udC1mYW1pbHk9Ikdlb3JnaWEiIGZvbnQtc2l6ZT0iMTQiPkk8L3RleHQ+CjxsaW5lIHgxPSIyNSIgeTE9IjIzOCIgeDI9IjcwIiB5Mj0iMjIwIiBzdHJva2U9IiMxNjIwMkUiIHN0cm9rZS13aWR0aD0iMSIvPgo8cGF0aCBkPSJNNzAgMjYwIFExMjAgMjQwIDE3NSAyNjAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzE2MjAyRSIgc3Ryb2tlLXdpZHRoPSIzIi8+Cjx0ZXh0IHg9IjIzMCIgeT0iMjcwIiBmb250LWZhbWlseT0iR2VvcmdpYSIgZm9udC1zaXplPSIxNCI+SUk8L3RleHQ+CjxsaW5lIHgxPSIyMjgiIHkxPSIyNjUiIHgyPSIxNzUiIHkyPSIyNTgiIHN0cm9rZT0iIzE2MjAyRSIgc3Ryb2tlLXdpZHRoPSIxIi8+Cjwvc3ZnPg==
+Answer: C
+
+159. Speciality common in the alveoli of lungs and villi of intestine in mammals is that:
+A) both maximise the surface area.
+B) both have ciliated epithelium.
+C) both are suited for diffusion of gases.
+D) both have rich supply of blood vessels and lymph ducts for absorption of food.
+Answer: A
+
+160. During forced expiration, which of the following muscles are actively involved to decrease thoracic volume?
+A) Diaphragm and external intercostal muscles contract
+B) External intercostal muscles and diaphragm relax
+C) Internal intercostal and abdominal muscles contract
+D) Diaphragm and internal intercostal muscles relax
+Answer: C
+
+161. Lungs are made up of air-filled sacs, the alveoli. They do not collapse even after forceful expiration, because of:
+A) Inspiratory Reserve Volume
+B) Tidal Volume
+C) Expiratory Reserve Volume
+D) Residual Volume
+Answer: D
+
+162. Tidal Volume and Expiratory Reserve Volume of an athlete is 500 mL and 1000 mL, respectively. What will be his Expiratory Capacity if the Residual Volume is 1200 mL?
+A) 1500 mL
+B) 2200 mL
+C) 2700 mL
+D) 2800 mL
+Answer: A
+
+163. Given below are two statements:
+Statement I: Spirometer helps in the clinical assessment of pulmonary function.
+Statement II: A healthy man can inspire or expire approximately 6000 to 8000 mL of air per minute.
+In the light of the above statements, choose the most appropriate answer from the options given below:
+A) Statement I is correct but Statement II is incorrect.
+B) Statement I is incorrect but Statement II is correct.
+C) Both Statement I and Statement II are correct.
+D) Both Statement I and Statement II are incorrect.
+Answer: C
+
+164. Mark the correct statement.
+A) Volume of residual air is higher than tidal volume.
+B) Volume of complementary air is higher than tidal volume.
+C) Volume of supplementary air is lower than residual capacity.
+D) All of the above
+Answer: D
+
+165. Which of the following options correctly completes the given equation?
+Total lung capacity − Functional residual capacity = ..................
+A) Expiratory capacity
+B) Inspiratory capacity
+C) Residual volume
+D) Tidal volume
+Answer: B
+
+166. Which of the following option correctly defines functional residual capacity?
+A) Total volume of air a person can inspire after a normal expiration.
+B) Volume of air that will remain in the lungs after a normal expiration.
+C) Total volume of air a person can expire after a normal inspiration.
+D) The maximum volume of air a person can breathe in after a forced expiration.
+Answer: B
+
+167. Which of the following fact given below about ERV is correct?
+A) Its value is less than TV (tidal volume)
+B) Its value is almost equal to RV (residual volume)
+C) ERV = EC − TV, where EC = Expiratory capacity and TV is Tidal Volume
+D) Both (2) and (3)
+Answer: D
+
+168. Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R:
+Assertion A: The lungs are situated in the thoracic chamber.
+Reason R: The anatomical setup of lungs in thorax is such that any change in the volume of the thoracic cavity will not get reflected in the lung (pulmonary) cavity.
+In the light of above statements, choose the correct answer from the options given below:
+A) A is true but R is false.
+B) A is false but R is true.
+C) Both A and R are true and R is the correct explanation of A.
+D) Both A and R are true but R is not the correct explanation of A.
+Answer: A
+
+169. Choose the odd one out w.r.t. the conditions present in tissues.
+A) High pCO₂
+B) Low pO₂
+C) Higher temperature
+D) Lower H⁺ concentration
+Answer: D
+
+170. What is the partial pressure of oxygen (pO₂) in the systemic arteries and systemic veins, respectively?
+A) 104 mm Hg and 40 mm Hg
+B) 95 mm Hg and 40 mm Hg
+C) 40 mm Hg and 95 mm Hg
+D) 159 mm Hg and 45 mm Hg
+Answer: B
+
+171. What will be the pO₂ and pCO₂ in the atmospheric air as compared to that of alveolar air?
+A) pO₂ is lesser and pCO₂ is higher.
+B) pO₂ is higher and pCO₂ is lesser.
+C) Both pO₂ and pCO₂ are lesser.
+D) Both pO₂ and pCO₂ are higher.
+Answer: B
+
+172. What is the function of respiratory part of human respiratory system?
+A) It clears the incoming air from foreign particles
+B) It brings the temperature of air upto the body temperature
+C) It transports the atmospheric air
+D) It exchanges O₂ and CO₂ between blood and atmospheric air
+Answer: D
+
+173. Given below are two statements:
+Statement I: The thickness of diffusion membrane is less than a millimetre.
+Statement II: Pressure contributed by an individual gas in a mixture of gases is called partial pressure.
+In the light of the above statements, choose the most appropriate answer from the options given below:
+A) Statement I is correct but Statement II is incorrect.
+B) Statement I is incorrect but Statement II is correct.
+C) Both Statement I and Statement II are correct.
+D) Both Statement I and Statement II are incorrect.
+Answer: C
+
+174. Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R:
+Assertion A: Inspiration requires higher intrapulmonary pressure as compared to atmospheric pressure.
+Reason R: An increase in pulmonary volume decreases the intrapulmonary pressure to less than the atmospheric pressure which forces the air from outside to move into the lungs during inspiration.
+In the light of the above statements, choose the correct answer from the options given below:
+A) A is true but R is false.
+B) A is false but R is true.
+C) Both A and R are true and R is the correct explanation of A.
+D) Both A and R are true but R is not the correct explanation of A.
+Answer: B
+
+175. Number of alveoli in the human lungs has been estimated to be approximately.
+A) 100 million
+B) 300 million
+C) 125 million
+D) 300 billion
+Answer: B
+
+176. A patient accidentally inhales food in the windpipe while eating and begins to choke. This condition is most likely due to:
+A) Failure of the epiglottis to cover the glottis
+B) Blockage of the oesophagus
+C) Excessive saliva production interfering with digestion
+D) Inability of the diaphragm to contract properly
+Answer: A
+
+177. Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R:
+Assertion (A): Mammals can inspire when there is a negative pressure in the lungs with respect to atmospheric pressure.
+Reason (R): Inspiration is initiated by the relaxation of diaphragm.
+In the light of the above statements, choose the correct answer from the options given below:
+A) A is true but R is false.
+B) A is false but R is true.
+C) Both A and R are true and R is the correct explanation of A.
+D) Both A and R are true and R is not the correct explanation of A.
+Answer: A
+
+178. Which of the following set of conditions in alveoli is most favourable for the formation of oxyhaemoglobin?
+A) Low pO₂, high pCO₂, high H⁺ concentration, high temperature
+B) High pO₂, low pCO₂, low H⁺ concentration, low temperature
+C) Low pO₂, low pCO₂, high H⁺ concentration, high temperature
+D) High pO₂, high pCO₂, low H⁺ concentration, high temperature
+Answer: B
+
+179. Which of the following statement/s is/are incorrect?
+A. In alveoli, partial pressure of oxygen is higher which is favourable for oxyhaemoglobin formation.
+B. Pulmonary ventilation involves diffusion of gases between blood and tissue.
+C. In emphysema, alveolar walls are damaged.
+A) A and C only
+B) A, B and C
+C) B only
+D) A only
+Answer: C
+
+180. Which of the following conditions would most significantly reduce oxygen diffusion from alveoli to blood?
+A) Decreased CO₂ solubility in plasma
+B) Increased thickness of the diffusion membrane
+C) Decreased blood pCO₂ levels
+D) Increased alveolar oxygen partial pressure
+Answer: B
