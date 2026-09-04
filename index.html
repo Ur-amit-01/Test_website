@@ -17,19 +17,35 @@
 
 <!-- ================= INSTITUTE PICKER (landing) ================= -->
 <div id="screen-institutes" class="screen active">
-  <div id="screen-upload" style="display:flex;align-items:center;justify-content:center;padding:48px 20px;">
+  <div id="screen-upload" class="landing-shell">
   <div class="landing-card">
-    <div class="landing-mark">
-      <span class="brand-badge">PW</span>
-      <div class="num-label"><b id="libCount">0</b> practice test<span id="libCountPlural">s</span> ready across <b id="libInstCount">0</b> institute<span id="libInstCountPlural">s</span></div>
-    </div>
-    <h1 class="landing-title">NEET Mock Test</h1>
-    <p class="landing-sub">Choose an institute below, then pick a test to begin: a shared countdown timer at one minute per question, and NEET marking of <b>+4</b> for a correct answer and <b>&minus;1</b> for a wrong one.</p>
 
-    <div class="brand-box">
-      <div class="brand-field">
-        <label for="candidateInput">Your name <span>(optional, shown on the result)</span></label>
+    <div class="masthead">
+      <div class="masthead-brand">
+        <span class="brand-badge masthead-badge">PW</span>
+        <span class="masthead-word">NEET Mock Test</span>
+      </div>
+    </div>
+
+    <h1 class="landing-title">Made with ❤️, by ~ HUSTLER.</h1>
+    <p class="landing-sub">Pick an institute, then a paper. Every test runs on a live countdown with NEET marking &mdash; <b>+4</b> for a correct answer, <b>&minus;1</b> for a wrong one &mdash; and ends with a full answer review.</p>
+
+    <div class="ticket-row">
+      <div class="ticket-field candidate-field">
+        <label for="candidateInput">Candidate name <span>(optional &mdash; shown on your result)</span></label>
         <input type="text" id="candidateInput" placeholder="e.g. Aditi Sharma">
+      </div>
+      <div class="ticket-field stat-field">
+        <div class="stat-line">
+          <span>Tests ready</span>
+          <b class="mono"><span id="libCount">0</span></b>
+        </div>
+        <div class="stat-line">
+          <span>Institutes</span>
+          <b class="mono"><span id="libInstCount">0</span></b>
+        </div>
+        <span style="display:none;" id="libCountPlural">s</span>
+        <span style="display:none;" id="libInstCountPlural">s</span>
       </div>
     </div>
 
@@ -146,3 +162,4 @@
 <script src="script.js"></script>
 </body>
 </html>
+
