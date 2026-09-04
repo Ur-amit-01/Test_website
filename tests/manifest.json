@@ -3,14 +3,25 @@
     {
       "institute": "PW",
       "series": "Yakeen NEET (2027)",
+      "title": "Short Practice Test - 01",
+      "file": "PW/Yakeen NEET (2027)/short-practice-test-01.txt",
+      "pdf": "https://drive.google.com/file/d/PASTE_FILE_ID_HERE/view"
+    },
+    {
+      "institute": "PW",
+      "series": "Yakeen NEET (2027)",
       "title": "Practice Test - 01",
-      "file": "PW/Yakeen NEET (2027)/Practice_Test_01_Yakeen_NEET_2027-2.txt"
+      "file": "PW/Yakeen NEET (2027)/Practice_Test_01_Yakeen_NEET_2027-2.txt",
+      "pdf": "https://drive.google.com/file/d/PASTE_FILE_ID_HERE/view"
     },
     {
       "institute": "PW",
       "series": "Yakeen NEET (2027)",
       "title": "Short Practice Test - 02",
-      "file": "PW/Yakeen NEET (2027)/Short_Practice_Test_02_Yakeen_NEET_2027.txt"
+      "file": "PW/Yakeen NEET (2027)/Short_Practice_Test_02_Yakeen_NEET_2027.txt",
+      "pdf": "https://drive.google.com/file/d/PASTE_FILE_ID_HERE/view"
     }
   ]
 }
+
+
