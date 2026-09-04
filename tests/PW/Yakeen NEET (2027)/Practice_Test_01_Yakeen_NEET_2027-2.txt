@@ -1,0 +1,1396 @@
+1. Find the approximate value of (1 + x)^3, if |x| << 1.
+A) 1 + x
+B) 1 − 3x
+C) 1 + 3x
+D) 1 + 3x + 3x² + x³
+Answer: C
+
+2. The equation √x = 2y represents that graph between x and y is a:
+A) Straight line
+B) Parabola
+C) Hyperbola
+D) Circle
+Answer: B
+
+3. If x = −5y², then the correct graph is (a parabola symmetric about the x-axis):
+A) Parabola opening toward negative x (leftward), symmetric about the x-axis
+B) Parabola opening upward, symmetric about the y-axis
+C) Parabola opening toward positive x (rightward), symmetric about the x-axis
+D) Parabola opening downward, symmetric about the y-axis
+Answer: A
+
+4. If in a right angle triangle, sin A = 3/5, then find tan A.
+A) 3/4
+B) 3/5
+C) 5/3
+D) 4/3
+Answer: A
+
+5. Distance between points (2, 3, −7) and (−2, 0, 5) is
+A) 5
+B) 13
+C) √145
+D) √119
+Answer: B
+
+6. Match List-I with List-II.
+List-I: (A) sin 30°  (B) tan 30°  (C) cos 30°  (D) cot 30°
+List-II: (I) √3  (II) √3/2  (III) 1/2  (IV) 1/√3
+Choose the correct answer from the options given below:
+A) A-I, B-III, C-IV, D-II
+B) A-IV, B-II, C-III, D-I
+C) A-II, B-I, C-IV, D-III
+D) A-III, B-IV, C-II, D-I
+Answer: B
+
+7. The maximum value of y = 4 sin x + 3 cos x is:
+A) 5
+B) 10
+C) 7
+D) 7/2
+Answer: A
+
+8. Find the value of (8)^(5/3)?
+A) 16
+B) 8
+C) 32
+D) 4
+Answer: C
+
+9. The equation x² + 8x + 12 = 0 has:
+A) No root
+B) One root
+C) Two roots
+D) Four roots
+Answer: C
+
+10. If y = x² − 4x + 3 then find y at x = 4.
+A) 0
+B) 7
+C) 4
+D) 3
+Answer: D
+
+11. At point P (marked on the curve shown), the value of slope is:
+A) Zero
+B) Positive
+C) Negative
+D) Infinite
+Image: data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyODAgMjIwIiB3aWR0aD0iMjgwIiBoZWlnaHQ9IjIyMCI+CjxsaW5lIHgxPSIyMCIgeTE9IjE5MCIgeDI9IjI2MCIgeTI9IjE5MCIgc3Ryb2tlPSIjMTYyMDJFIiBzdHJva2Utd2lkdGg9IjIiLz4KPGxpbmUgeDE9IjIwIiB5MT0iMTkwIiB4Mj0iMjAiIHkyPSIyMCIgc3Ryb2tlPSIjMTYyMDJFIiBzdHJva2Utd2lkdGg9IjIiLz4KPHRleHQgeD0iMjU1IiB5PSIyMDUiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLHNlcmlmIiBmb250LXNpemU9IjE2IiBmaWxsPSIjMTYyMDJFIj54PC90ZXh0Pgo8dGV4dCB4PSI4IiB5PSIyMCIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsc2VyaWYiIGZvbnQtc2l6ZT0iMTYiIGZpbGw9IiMxNjIwMkUiPnk8L3RleHQ+CjxwYXRoIGQ9Ik0gNjAgNjAgUSAxNDAgMTkwIDIyMCA2MCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMTYyMDJFIiBzdHJva2Utd2lkdGg9IjIuNSIvPgo8Y2lyY2xlIGN4PSIxNDAiIGN5PSIxNTAiIHI9IjQiIGZpbGw9IiMxNjIwMkUiLz4KPHRleHQgeD0iMTQ4IiB5PSIxNDUiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLHNlcmlmIiBmb250LXNpemU9IjE2IiBmaWxsPSIjMTYyMDJFIj5QPC90ZXh0Pgo8L3N2Zz4=
+Answer: A
+
+12. If y = (tan θ)/θ, then find the value of y at θ = 1° (θ small).
+A) 10°
+B) 0
+C) 1
+D) √3
+Answer: C
+
+13. The graph for the equation y = 3 is:
+A) A horizontal line at y = 3, parallel to the x-axis
+B) A line sloping down from (0, 3) to (3, 0)
+C) A vertical line at x = 3
+D) A diagonal dashed line through the origin up to (3, 3)
+Answer: A
+
+14. The sum of the series 1 + 1/4 + 1/16 + 1/64 + …… ∞ is
+A) 8/7
+B) 6/5
+C) 5/4
+D) 4/3
+Answer: D
+
+15. If acceleration due to gravity (g) at height h << R (R = radius of earth) is gₕ = g₀(1 + h/R)⁻², then using the binomial theorem which is correct?
+A) gₕ = g₀
+B) gₕ = g₀(1 − 2h/R)
+C) gₕ = g₀(1 + 2h/R)
+D) gₕ = g₀(1 − h/2R)
+Answer: B
+
+16. Find the value of the hypotenuse (H) of the right triangle shown, where P = 3 m and B = 4 m.
+A) 6 m
+B) 1 m
+C) 5 m
+D) 7 m
+Image: data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyODAgMjAwIiB3aWR0aD0iMjgwIiBoZWlnaHQ9IjIwMCI+Cjxwb2x5Z29uIHBvaW50cz0iNDAsMTcwIDIyMCwxNzAgMjIwLDUwIiBmaWxsPSJub25lIiBzdHJva2U9IiMxNjIwMkUiIHN0cm9rZS13aWR0aD0iMyIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8cGF0aCBkPSJNIDIwMCAxNzAgTCAyMDAgMTUwIEwgMjIwIDE1MCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMTYyMDJFIiBzdHJva2Utd2lkdGg9IjIiLz4KPHRleHQgeD0iMTA1IiB5PSIxMDAiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLHNlcmlmIiBmb250LXNpemU9IjIwIiBmb250LXN0eWxlPSJpdGFsaWMiIGZpbGw9IiMxNjIwMkUiPkg8L3RleHQ+Cjx0ZXh0IHg9IjIyOCIgeT0iMTE1IiBmb250LWZhbWlseT0iR2VvcmdpYSxzZXJpZiIgZm9udC1zaXplPSIyMCIgZm9udC1zdHlsZT0iaXRhbGljIiBmaWxsPSIjMTYyMDJFIj5QID0gM208L3RleHQ+Cjx0ZXh0IHg9IjEzMCIgeT0iMTkyIiBmb250LWZhbWlseT0iR2VvcmdpYSxzZXJpZiIgZm9udC1zaXplPSIyMCIgZm9udC1zdHlsZT0iaXRhbGljIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjMTYyMDJFIj5CID0gNG08L3RleHQ+Cjx0ZXh0IHg9IjYwIiB5PSIxNTgiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLHNlcmlmIiBmb250LXNpemU9IjE5IiBmb250LXN0eWxlPSJpdGFsaWMiIGZpbGw9IiMxNjIwMkUiPiYjOTUyOzwvdGV4dD4KPC9zdmc+
+Answer: C
+
+17. sin(A − B) is equal to:
+A) sin A cos B + cos A sin B
+B) sin A cos B − cos A sin B
+C) cos A sin B − sin A cos B
+D) cos A cos B + sin A sin B
+Answer: B
+
+18. The slope of the v−t graph shown (with points A, B, C, D marked) is zero at point:
+A) A
+B) B
+C) C
+D) D
+Image: data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMDAgMjIwIiB3aWR0aD0iMzAwIiBoZWlnaHQ9IjIyMCI+CjxsaW5lIHgxPSIzMCIgeTE9IjE5MCIgeDI9IjI4MCIgeTI9IjE5MCIgc3Ryb2tlPSIjMTYyMDJFIiBzdHJva2Utd2lkdGg9IjIiLz4KPGxpbmUgeDE9IjMwIiB5MT0iMTkwIiB4Mj0iMzAiIHkyPSIyMCIgc3Ryb2tlPSIjMTYyMDJFIiBzdHJva2Utd2lkdGg9IjIiLz4KPHRleHQgeD0iOCIgeT0iMTAwIiBmb250LWZhbWlseT0iR2VvcmdpYSxzZXJpZiIgZm9udC1zaXplPSIxNCIgZmlsbD0iIzE2MjAyRSI+djwvdGV4dD4KPHRleHQgeD0iMTAiIHk9IjkwIiBmb250LWZhbWlseT0iR2VvcmdpYSxzZXJpZiIgZm9udC1zaXplPSIxMiIgZmlsbD0iIzE2MjAyRSI+KHZlbG9jaXR5KTwvdGV4dD4KPHRleHQgeD0iMjcwIiB5PSIyMDUiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLHNlcmlmIiBmb250LXNpemU9IjE0IiBmaWxsPSIjMTYyMDJFIj50PC90ZXh0Pgo8dGV4dCB4PSIyNTUiIHk9IjIwNSIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsc2VyaWYiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9IiMxNjIwMkUiPih0aW1lKTwvdGV4dD4KPHBvbHlsaW5lIHBvaW50cz0iMzAsMTkwIDkwLDcwIDE4MCw3MCAyMzAsMTkwIiBmaWxsPSJub25lIiBzdHJva2U9IiMxNjIwMkUiIHN0cm9rZS13aWR0aD0iMi41Ii8+CjxsaW5lIHgxPSIyMzAiIHkxPSIxOTAiIHgyPSIyNTUiIHkyPSIxNTAiIHN0cm9rZT0iIzE2MjAyRSIgc3Ryb2tlLXdpZHRoPSIyLjUiIHN0cm9rZS1kYXNoYXJyYXk9IjQsMyIvPgo8Y2lyY2xlIGN4PSI2MCIgY3k9IjEzMCIgcj0iMy41IiBmaWxsPSIjMTYyMDJFIi8+Cjx0ZXh0IHg9IjYyIiB5PSIxMjIiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLHNlcmlmIiBmb250LXNpemU9IjE1IiBmaWxsPSIjMTYyMDJFIj5BPC90ZXh0Pgo8Y2lyY2xlIGN4PSI5MCIgY3k9IjcwIiByPSIzLjUiIGZpbGw9IiMxNjIwMkUiLz4KPHRleHQgeD0iODAiIHk9IjYwIiBmb250LWZhbWlseT0iR2VvcmdpYSxzZXJpZiIgZm9udC1zaXplPSIxNSIgZmlsbD0iIzE2MjAyRSI+QjwvdGV4dD4KPGNpcmNsZSBjeD0iMjQ1IiBjeT0iMTY1IiByPSIzLjUiIGZpbGw9IiMxNjIwMkUiLz4KPHRleHQgeD0iMjQ4IiB5PSIxNjAiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLHNlcmlmIiBmb250LXNpemU9IjE1IiBmaWxsPSIjMTYyMDJFIj5DPC90ZXh0Pgo8Y2lyY2xlIGN4PSIyMzAiIGN5PSIxOTAiIHI9IjMuNSIgZmlsbD0iIzE2MjAyRSIvPgo8dGV4dCB4PSIyMzIiIHk9IjE4MiIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsc2VyaWYiIGZvbnQtc2l6ZT0iMTUiIGZpbGw9IiMxNjIwMkUiPkQ8L3RleHQ+Cjwvc3ZnPg==
+Answer: B
+
+19. Convert angle from radian to degree: π/2 rad
+A) 60°
+B) 30°
+C) 90°
+D) 0°
+Answer: C
+
+20. The slope of the line shown, passing through (0, 4) and (3, 0):
+A) −4/3
+B) 4/3
+C) 3/4
+D) −3/4
+Image: data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNjAgMjAwIiB3aWR0aD0iMjYwIiBoZWlnaHQ9IjIwMCI+CjxsaW5lIHgxPSIzMCIgeTE9IjE3MCIgeDI9IjIzMCIgeTI9IjE3MCIgc3Ryb2tlPSIjMTYyMDJFIiBzdHJva2Utd2lkdGg9IjIiLz4KPGxpbmUgeDE9IjMwIiB5MT0iMTcwIiB4Mj0iMzAiIHkyPSIyMCIgc3Ryb2tlPSIjMTYyMDJFIiBzdHJva2Utd2lkdGg9IjIiLz4KPGxpbmUgeDE9IjMwIiB5MT0iNDAiIHgyPSIxNDAiIHkyPSIxNzAiIHN0cm9rZT0iIzE2MjAyRSIgc3Ryb2tlLXdpZHRoPSIyLjUiLz4KPGNpcmNsZSBjeD0iMzAiIGN5PSI0MCIgcj0iMy41IiBmaWxsPSIjMTYyMDJFIi8+Cjx0ZXh0IHg9IjgiIHk9IjM1IiBmb250LWZhbWlseT0iR2VvcmdpYSxzZXJpZiIgZm9udC1zaXplPSIxNCIgZmlsbD0iIzE2MjAyRSI+KDAsIDQpPC90ZXh0Pgo8Y2lyY2xlIGN4PSIxNDAiIGN5PSIxNzAiIHI9IjMuNSIgZmlsbD0iIzE2MjAyRSIvPgo8dGV4dCB4PSIxMzAiIHk9IjE4OCIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsc2VyaWYiIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiMxNjIwMkUiPigzLCAwKTwvdGV4dD4KPC9zdmc+
+Answer: A
+
+21. Find the value of cos(330°)
+A) sin 45°
+B) − cos 30°
+C) cos 60°
+D) sin 60°
+Answer: D
+
+22. Find the value of P in the right triangle shown, where the base angle is 30° and B = 8.
+A) √3/8
+B) 8
+C) 8/√3
+D) 0
+Image: data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyODAgMjAwIiB3aWR0aD0iMjgwIiBoZWlnaHQ9IjIwMCI+Cjxwb2x5Z29uIHBvaW50cz0iNDAsMTcwIDIyMCwxNzAgMjIwLDUwIiBmaWxsPSJub25lIiBzdHJva2U9IiMxNjIwMkUiIHN0cm9rZS13aWR0aD0iMyIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8cGF0aCBkPSJNIDIwMCAxNzAgTCAyMDAgMTUwIEwgMjIwIDE1MCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMTYyMDJFIiBzdHJva2Utd2lkdGg9IjIiLz4KPHRleHQgeD0iMTA1IiB5PSIxMDAiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLHNlcmlmIiBmb250LXNpemU9IjIwIiBmb250LXN0eWxlPSJpdGFsaWMiIGZpbGw9IiMxNjIwMkUiPkg8L3RleHQ+Cjx0ZXh0IHg9IjIyOCIgeT0iMTE1IiBmb250LWZhbWlseT0iR2VvcmdpYSxzZXJpZiIgZm9udC1zaXplPSIyMCIgZm9udC1zdHlsZT0iaXRhbGljIiBmaWxsPSIjMTYyMDJFIj5QPC90ZXh0Pgo8dGV4dCB4PSIxMzAiIHk9IjE5MiIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsc2VyaWYiIGZvbnQtc2l6ZT0iMjAiIGZvbnQtc3R5bGU9Iml0YWxpYyIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZmlsbD0iIzE2MjAyRSI+QiA9IDg8L3RleHQ+Cjx0ZXh0IHg9IjU1IiB5PSIxNTgiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLHNlcmlmIiBmb250LXNpemU9IjE2IiBmaWxsPSIjMTYyMDJFIj4zMCYjMTc2OzwvdGV4dD4KPC9zdmc+
+Answer: C
+
+23. Which graph is the best representation for the given equation, y ∝ x²?
+A) A curve rising steeply and concave upward from the origin (parabola-like, opening upward)
+B) A curve concave downward that rises and then flattens
+C) A curve falling from the y-axis, concave upward
+D) A straight line through the origin with positive slope
+Answer: A
+
+24. What is the value of (sin30° cos15°) + (cos30° sin15°)?
+A) 1/2
+B) 0
+C) 1
+D) 1/√2
+Answer: D
+
+25. Write the equation of the ellipse shown, where a = 7 m is the semi-minor axis (along x) and b = 10 m is the semi-major axis (along y).
+A) x²/10² + y²/7² = 1
+B) x²/7 + y²/10 = 1
+C) x²/7² + y²/10² = 1
+D) x²/7² + y²/10² = 4
+Image: data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyODAgMjQwIiB3aWR0aD0iMjgwIiBoZWlnaHQ9IjI0MCI+CjxsaW5lIHgxPSIzMCIgeTE9IjEyMCIgeDI9IjI1MCIgeTI9IjEyMCIgc3Ryb2tlPSIjMTYyMDJFIiBzdHJva2Utd2lkdGg9IjEuNSIvPgo8bGluZSB4MT0iMTQwIiB5MT0iMjIwIiB4Mj0iMTQwIiB5Mj0iMjAiIHN0cm9rZT0iIzE2MjAyRSIgc3Ryb2tlLXdpZHRoPSIxLjUiLz4KPGVsbGlwc2UgY3g9IjE0MCIgY3k9IjEyMCIgcng9IjcwIiByeT0iOTUiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2Q5MmIyYiIgc3Ryb2tlLXdpZHRoPSIzIi8+Cjx0ZXh0IHg9IjI1NSIgeT0iMTI1IiBmb250LWZhbWlseT0iR2VvcmdpYSxzZXJpZiIgZm9udC1zaXplPSIxNCIgZmlsbD0iIzE2MjAyRSI+eDwvdGV4dD4KPHRleHQgeD0iMTQ1IiB5PSIxOCIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsc2VyaWYiIGZvbnQtc2l6ZT0iMTQiIGZpbGw9IiMxNjIwMkUiPnk8L3RleHQ+CjxsaW5lIHgxPSI3MCIgeTE9IjYwIiB4Mj0iMTQwIiB5Mj0iNjAiIHN0cm9rZT0iI2Q5MmIyYiIgc3Ryb2tlLXdpZHRoPSIyIiBtYXJrZXItZW5kPSJ1cmwoI2Fycm93KSIvPgo8dGV4dCB4PSI5NSIgeT0iNTIiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLHNlcmlmIiBmb250LXNpemU9IjE0IiBmaWxsPSIjZDkyYjJiIj5iPTEwbTwvdGV4dD4KPGxpbmUgeDE9IjE0MCIgeTE9IjEyMCIgeDI9IjIwNSIgeTI9IjEyMCIgc3Ryb2tlPSIjZDkyYjJiIiBzdHJva2Utd2lkdGg9IjIiLz4KPHRleHQgeD0iMTUwIiB5PSIxMTIiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLHNlcmlmIiBmb250LXNpemU9IjE0IiBmaWxsPSIjZDkyYjJiIj5hPTdtPC90ZXh0Pgo8L3N2Zz4=
+Answer: C
+
+26. The equation of a straight line is 2x + 3y = 5. What is the slope of this line?
+A) 3/2
+B) 2/3
+C) −2/3
+D) −3/2
+Answer: C
+
+27. logₑ 15 is equal to:
+A) logₑ 3 + logₑ 5
+B) logₑ 5 − logₑ 3
+C) logₑ 10 + logₑ 5
+D) logₑ 10 − logₑ 5
+Answer: A
+
+28. If sin θ = −1/√2 and tan θ = 1, then θ lies in which quadrant?
+A) First
+B) Second
+C) Third
+D) Fourth
+Answer: C
+
+29. If y = sin 2θ, then find 'θ' for which y is maximum.
+A) 90°
+B) 60°
+C) 45°
+D) 32°
+Answer: C
+
+30. If linear momentum P = h/λ (h = Planck's constant), then what will be the graph between P and λ?
+A) Two symmetric branches like a hyperbola in opposite quadrants (odd symmetry about the origin)
+B) An inverted (downward-opening) parabola-like curve through the origin
+C) A curve decreasing steadily and approaching both axes asymptotically (P inversely proportional to λ)
+D) A curve starting at a fixed point on the P-axis, decreasing and flattening toward the λ-axis
+Answer: C
+
+31. Find the value of log₁₀ 10³⁵
+A) 28
+B) 32
+C) 36
+D) 35
+Answer: D
+
+32. The slope of the line joining P(−4, 7) and Q(2, 3) is:
+A) −2/3
+B) 2/3
+C) −3/2
+D) 3/2
+Answer: A
+
+33. Correct value of cos(2°)
+A) 2°
+B) π/50
+C) 1
+D) 0
+Answer: C
+
+34. If y = logₑ x + sin x + eˣ then dy/dx is
+A) 1/x + sin x + eˣ
+B) 1/x − cos x + eˣ
+C) 1/x + cos x + eˣ
+D) 1/x − sin x
+Answer: C
+
+35. d/dx(sin 30°) is equal to
+A) cos 30°
+B) cosec 30°
+C) 0
+D) sin 30°
+Answer: C
+
+36. The slope of straight line √3 y = 3x + 4 is
+A) 3
+B) √3
+C) 1/√3
+D) 1/3
+Answer: B
+
+37. The equation of straight line having slope √3 and y-intercept of −2 will be
+A) y = √3x + 2
+B) y = √3x − 2
+C) y = −√3x − 2
+D) y = −√3x + 2
+Answer: B
+
+38. Convert angle from degree to radian: 30°
+A) π/2
+B) π/4
+C) π/6
+D) π/3
+Answer: C
+
+39. If tan θ = 4/3 in the right triangle shown (H, P, B). Find the value of sin θ
+A) 3/5
+B) 4/3
+C) 4/5
+D) 5/4
+Image: data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNDAgMjAwIiB3aWR0aD0iMjQwIiBoZWlnaHQ9IjIwMCI+Cjxwb2x5Z29uIHBvaW50cz0iMTQwLDIwIDE0MCwxNzAgNDAsMTcwIiBmaWxsPSJub25lIiBzdHJva2U9IiMxNjIwMkUiIHN0cm9rZS13aWR0aD0iMyIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8bGluZSB4MT0iMTQwIiB5MT0iMjAiIHgyPSI0MCIgeTI9IjE3MCIgc3Ryb2tlPSIjMTYyMDJFIiBzdHJva2Utd2lkdGg9IjMiLz4KPHRleHQgeD0iMTUwIiB5PSIxMDAiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLHNlcmlmIiBmb250LXNpemU9IjIwIiBmb250LXN0eWxlPSJpdGFsaWMiIGZpbGw9IiMxNjIwMkUiPlA8L3RleHQ+Cjx0ZXh0IHg9IjgwIiB5PSIxOTIiIGZvbnQtZmFtaWx5PSJHZW9yZ2lhLHNlcmlmIiBmb250LXNpemU9IjIwIiBmb250LXN0eWxlPSJpdGFsaWMiIGZpbGw9IiMxNjIwMkUiPkI8L3RleHQ+Cjx0ZXh0IHg9IjcwIiB5PSI5MCIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsc2VyaWYiIGZvbnQtc2l6ZT0iMjAiIGZvbnQtc3R5bGU9Iml0YWxpYyIgZmlsbD0iIzE2MjAyRSI+SDwvdGV4dD4KPC9zdmc+
+Answer: C
+
+40. The spring force is given by F = −kx, where k is a constant and x is the deformation of the spring. The F−x graph is:
+A) A straight line through the origin with negative slope (F decreases as x increases)
+B) A curve that bends upward away from the origin
+C) A horizontal line not passing through the origin
+D) A curve symmetric about the F-axis, U-shaped
+Answer: A
+
+41. d/dx(eˣ) = ?
+A) eˣ
+B) 0
+C) 1
+D) None of these
+Answer: A
+
+42. Most appropriate graph for the equation x = 2y − 3 is:
+A) Two lines crossing like an X through the origin
+B) A straight line with positive slope crossing both axes, not passing through the origin
+C) A straight line with negative slope through the second and fourth quadrants
+D) A vertical and a horizontal line crossing like a plus sign
+Answer: B
+
+43. ∫3x²dx :
+A) x³ + C
+B) 6x + C
+C) 2x² + C
+D) x² + C
+Answer: A
+
+44. ∫(x² + sin x + 3)dx :
+A) x³/3 + cos x + 3x + C
+B) x³/3 − cos x + 3x + C
+C) x³/3 + cos x − 3x + C
+D) x³/3 − cos x − 3x + C
+Answer: B
+
+45. If (sinθ + cosθ)/(sinθ − cosθ) = 7/3 then find tan θ?
+A) 3/5
+B) 5/2
+C) 5/3
+D) 2/5
+Answer: B
+
+46. The pair of species having the same empirical formula among the following is:
+A) C₆H₁₂O₆ and CH₃COOH
+B) CH₃CH₂OH and HCOOH
+C) CH₃OH and CH₃OC₂H₅
+D) CH₃CHO and CH₃CH₂OH
+Answer: A
+
+47. The number of water molecules is maximum in:
+A) 1.8 g of water
+B) 18 g of water
+C) 18 moles of water
+D) 18 molecules of water
+Answer: C
+
+48. The mass of 2.5 g atom of oxygen is:
+A) 10 g
+B) 40 g
+C) 22 g
+D) 20 g
+Answer: B
+
+49. The number of significant figures in 1.0001 are
+A) 1
+B) 2
+C) 4
+D) 5
+Answer: D
+
+50. In one molal solution that contains 0.5 mole of a solute, there is:
+A) 1000 g of solvent
+B) 500 mL of solvent
+C) 500 g of solvent
+D) 100 mL of solvent
+Answer: C
+
+51. The chemical formula for aspirin is C₉H₈O₄. How many oxygen atoms are there in a 480 mg tablet? (Molar mass in g/mol of C = 12, H = 1 and O = 16)
+A) 1.204 × 10²³
+B) 1.204 × 10²⁴
+C) 4.81 × 10²¹
+D) 6.40 × 10²¹
+Answer: D
+
+52. Match List-I with List-II.
+List-I: (A) 3 mole of Fe₃S₂  (B) 1 mole of FeSO₄  (C) 3 mole of O₃  (D) 1.5 mole of K₂CO₃
+List-II: (I) 6 mole of sulphur atoms  (II) 1 mole of iron atoms  (III) 9 mole of oxygen atoms  (IV) 3 mole of potassium atoms
+Choose the correct answer from the options given below:
+A) A-I, B-II, C-III, D-IV
+B) A-II, B-III, C-I, D-IV
+C) A-III, B-IV, C-II, D-I
+D) A-IV, B-II, C-III, D-I
+Answer: A
+
+53. 20 g of CaCO₃ on heating gave 8.8 g of CO₂ and 11.2 g of CaO. This is in accordance with:
+A) The law of conservation of mass
+B) The law of constant composition
+C) The law of reciprocal proportions
+D) None of these
+Answer: A
+
+54. The empirical formula of a compound of molecular mass 120 is CH₂O. What will be the molecular formula of the compound?
+A) C₂H₄O₂
+B) C₄H₈O₄
+C) C₃H₆O
+D) C₅H₁₀O₅
+Answer: B
+
+55. Match List-I (Quantity) with List-II (Units).
+List-I: (A) Density  (B) Pressure  (C) Length  (D) Energy
+List-II: (I) bar  (II) kg m⁻³  (III) eV  (IV) Å
+Choose the correct answer from the options given below:
+A) A-II, B-I, C-IV, D-III
+B) A-IV, B-III, C-II, D-I
+C) A-II, B-III, C-IV, D-I
+D) A-II, B-I, C-III, D-IV
+Answer: A
+
+56. Among the following pairs of compounds, the one that illustrates the law of multiple proportions is:
+A) Cu and CuSO₄
+B) CuO and Cu₂O
+C) H₂S and SO₂
+D) NH₃ and NCl₃
+Answer: B
+
+57. 62435 → Express this number in scientific notation
+A) 6.2435 × 10⁵
+B) 6.2435 × 10⁻⁵
+C) 6.2435 × 10⁻⁴
+D) 6.2435 × 10⁴
+Answer: D
+
+58. A solution is prepared by adding 5 g of a substance X to 18 g of solvent. Calculate the mass percentage of the solute:
+A) 21.74%
+B) 19%
+C) 25%
+D) 40%
+Answer: A
+
+59. How many moles of hydrogen atoms are present in 34 g of NH₃?
+A) 6
+B) 5
+C) 4
+D) 7
+Answer: A
+
+60. Which of the following temperatures will read the same value on the Celsius and Fahrenheit scales?
+A) −40
+B) +40
+C) −80
+D) −200
+Answer: A
+
+61. How many molecules are present in 10 L of a liquid whose molar mass and density are 154 g/mol and 1.54 g cm⁻³ respectively?
+A) 100 N_A
+B) 120 N_A
+C) 2 N_A
+D) 12 N_A
+Answer: A
+
+62. Select the correct statement regarding Dalton's atomic theory.
+A) Matter consists of divisible atoms
+B) Chemical reaction involves reorganization of atoms
+C) Compounds are formed when atoms of the same elements combine in a fixed ratio
+D) All atoms of a given element have different properties
+Answer: B
+
+63. The simplest formula of a compound containing 50% of element X (atomic mass 10) and 50% of element Y (atomic mass 20) is:
+A) XY
+B) X₂Y
+C) XY₃
+D) X₂Y₃
+Answer: B
+
+64. The atomic weight of Cu is 63.546. There are only two naturally occurring isotopes, ⁶³Cu and ⁶⁵Cu. The natural abundance of the ⁶³Cu isotope must be approximately:
+A) 10%
+B) 30%
+C) 50%
+D) 73%
+Answer: D
+
+65. 1.80 g of glucose (C₆H₁₂O₆) was dissolved in 36 g of water. The number of oxygen atoms in the solution are:
+A) 6.68 × 10²³
+B) 12.40 × 10²²
+C) 6.68 × 10²²
+D) 12.40 × 10²³
+Answer: D
+
+66. Calculate the number of moles in 12.044 × 10²³ He atoms.
+A) 1
+B) 2
+C) 3
+D) 4
+Answer: B
+
+67. Which statement is incorrect for the reaction given below: 2ZnS + 3O₂ → 2ZnO + 2SO₂
+A) One mole of ZnS will produce one mole of SO₂
+B) One mole of O₂ will produce 0.66 mole of ZnO
+C) Nine moles of oxygen requires four moles of ZnS
+D) Nine moles of oxygen will produce six moles of SO₂
+Answer: C
+
+68. Number of molecules in 100 mL of each of O₂, NH₃ and CO₂ at STP are:
+A) In the order CO₂ < O₂ < NH₃
+B) In the order NH₃ < O₂ < CO₂
+C) The same
+D) NH₃ = CO₂ < O₂
+Answer: C
+
+69. How many molecules of CO₂ will be needed to obtain 1.8 g of glucose according to the given reaction? Reaction: 6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂ [Molecular weight C₆H₁₂O₆ = 180 g mol⁻¹]
+A) 0.6 × 6.022 × 10²³
+B) 6 × 6.022 × 10²³
+C) 0.06 × 6.022 × 10²³
+D) 60 × 6.022 × 10²³
+Answer: C
+
+70. Using the rules for significant figures, the correct answer for the expression (0.02858 × 0.112)/0.5702
+A) 0.005613
+B) 0.00561
+C) 0.0056
+D) 0.006
+Answer: B
+
+71. The number of oxygen atoms present in 2.8 L of NO₂(g) at STP is:
+A) N_A
+B) N_A/8
+C) N_A/6
+D) N_A/4
+Answer: D
+
+72. A chloride salt of rhenium contains 63.6% Re by mass. What is its empirical formula? (Atomic mass of Re = 186 amu, Cl = 35.5 amu)
+A) ReCl
+B) ReCl₂
+C) ReCl₃
+D) ReCl₅
+Answer: C
+
+73. How many atoms of gold are present in 19.7 kg of gold? (At. wt. of Au = 197)
+A) 6.022 × 10²⁴
+B) 6.022 × 10²³
+C) 6.022 × 10²⁵
+D) 6.022 × 10²¹
+Answer: C
+
+74. __________ is the sum of average atomic masses of the atoms of the elements which constitute the molecule.
+A) Molecular mass
+B) Atomic weight
+C) Percentage weight
+D) Percentage volume
+Answer: A
+
+75. How many moles of aluminium sulphate, Al₂(SO₄)₃ will contain 0.24 mole of oxygen atoms?
+A) 2.0 × 10²
+B) 2.0 × 10⁻²
+C) 3.0 × 10³
+D) 1.5 × 10⁻²
+Answer: B
+
+76. If 40 g of CaCO₃ is treated with 40 g of HCl, which of the following reactants will act as limiting reagent?
+A) CaCO₃
+B) HCl
+C) Both CaCO₃ and HCl
+D) Neither CaCO₃ nor HCl
+Answer: A
+
+77. "A given compound always contains exactly the same proportion of elements by weight" is a statement of:
+A) Law of combining volumes of gases
+B) Law of conservation of mass
+C) Law of multiple proportion
+D) Law of definite proportion
+Answer: D
+
+78. Match Column-I with Column-II.
+Column-I: A. 1 mole of O₂(g)  B. 1 mole of SO₂(g)  C. 1 g of H₂(g)  D. 0.5 mole of O₃(g)
+Column-II: P. 32 g  Q. 64 g  R. 11.2 L at STP  S. 1.5 × 6.023 × 10²³ atoms
+A) A-P, B-Q, C-R, D-S
+B) A-S, B-R, C-P, D-Q
+C) A-S, B-R, C-Q, D-P
+D) A-R, B-S, C-P, D-Q
+Answer: A
+
+79. Formula unit mass of NaHCO₃ is:
+A) 84 u
+B) 76 u
+C) 52 u
+D) 64 u
+Answer: A
+
+80. An element X has the following isotopic composition: ²⁰⁰X : 90%, ¹⁹⁹X : 8.0%, ²⁰²X : 2.0%. The weighted average atomic mass of the naturally occurring element X is closest to:
+A) 200 amu
+B) 201 amu
+C) 202 amu
+D) 199 amu
+Answer: A
+
+81. According to which law does the different proportion of oxygen exist in oxides of Nitrogen?
+A) Law of constant composition
+B) Law of combining weight
+C) Law of multiple proportion
+D) None of these
+Answer: C
+
+82. According to the reaction, Mg(s) + 2HCl(aq) → MgCl₂(aq) + H₂(g)↑. Calculate the mass of Mg required to liberate 4.48 dm³ H₂ at STP? (Molar mass of Mg = 24 g mol⁻¹)
+A) 12 g
+B) 4.8 g
+C) 6 g
+D) 2.4 g
+Answer: B
+
+83. Which of the following reactions is incorrect according to the law of conservation of mass?
+A) P₄(s) + 5O₂(g) → P₄O₁₀(s)
+B) C₃H₈(g) + O₂(g) → CO₂(g) + H₂O(g)
+C) 2Mg(s) + O₂(g) → 2MgO(s)
+D) CH₄(g) + 2O₂(g) → CO₂(g) + 2H₂O(g)
+Answer: B
+
+84. The percentage of N in NH₃ molecule is:
+A) 53%
+B) 25%
+C) 72.35%
+D) 82.35%
+Answer: D
+
+85. The number of F⁻ ions in 4.2 g of AlF₃ is: (Molar mass of Al = 27 g/mol, Molar mass of F = 19 g/mol)
+A) 0.05
+B) 9.033 × 10²²
+C) 3.011 × 10²²
+D) 0.15
+Answer: B
+
+86. The human body temperature 37°C in °F is:
+A) 98.6 °F
+B) 99 °F
+C) 100 °F
+D) 95 °F
+Answer: A
+
+87. Given below are two statements:
+Statement I: One atomic mass unit is defined as 1/12 of the mass of one carbon-12 atom.
+Statement II: Carbon-12 isotope is the most abundant isotope of carbon and has been chosen as standard.
+In the light of the above statements, choose the most appropriate answer from the options given below:
+A) Statement I and Statement II both are correct
+B) Statement I is correct, but Statement II is incorrect
+C) Statement I is incorrect, but Statement II is correct
+D) Statement I and Statement II both are incorrect
+Answer: A
+
+88. Which of the following has the largest intermolecular forces of attraction?
+A) Solid
+B) Liquid
+C) Gas
+D) All the above
+Answer: A
+
+89. The amount of NaOH required to prepare 250 mL of 0.1 M solution is (molar mass of NaOH = 40 g/mol);
+A) 1 g
+B) 10 g
+C) 4 g
+D) 6 g
+Answer: A
+
+90. Which set of figures will be obtained after rounding the given measurements up to three significant figures? 1.386, 4.334, 2.808?
+A) 1.39, 4.34, 2.809
+B) 1.39, 4.33, 2.81
+C) 1.38, 4.34, 2.800
+D) 1.39, 4.34, 2.80
+Answer: B
+
+91. Which statement correctly differentiates plant and animal cells?
+A) Animal cells have plastids and large vacuoles; plant cells do not
+B) Plant cells possess cell walls and plastids; animal cells do not
+C) Both plant and animal cells contain cell walls
+D) Animal cells contain plastids but lack mitochondria
+Answer: B
+
+92. __________ first saw and described a live cell.
+A) Rudolf Virchow
+B) Antonie Von Leeuwenhoek
+C) Robert Brown
+D) Theodore Schwann
+Answer: B
+
+93. Microbodies are:
+A) Found in prokaryotic cells only
+B) Absent in plant cells
+C) Absent in animal cells
+D) Minute vesicles that contain various enzymes
+Answer: D
+
+94. Identify the cells given in the figure (irregularly shaped, amoeboid cells with lobed nuclei).
+A) Nerve cells
+B) White blood cells
+C) Columnar epithelial cells
+D) Red blood cells
+Answer: B
+
+95. Perinuclear space is:
+A) Space between plasma membrane and nuclear membrane (1-50 nm)
+B) Space between outer and inner nuclear membrane (10-50 nm)
+C) Space between two nuclear pores (5-15 nm)
+D) Space between inner and outer nuclear membrane (5-15 nm)
+Answer: B
+
+96. All the given statements about plasmodesmata are true, except:
+A) They connect the cytoplasm of adjacent plant cells
+B) They allow the transport of molecules between cells
+C) They are present in both plant and animal cells
+D) They help in communication between cells
+Answer: C
+
+97. Organelle in eukaryotic cell that has an organisation like a cartwheel:
+A) Has peripheral doublets
+B) Is surrounded by membrane
+C) Is surrounded by amorphous pericentriolar materials
+D) Occurs in pair lying parallel to each other
+Answer: C
+
+98. Which of the following statements is not correct?
+A) Lysosomes have numerous hydrolytic enzymes
+B) The hydrolytic enzymes of lysosomes are active under acidic pH
+C) Lysosomes are membrane bound structures
+D) Lysosomes are formed by the process of packaging in the endoplasmic reticulum
+Answer: D
+
+99. Match List-I with List-II.
+List-I: (A) Smooth endoplasmic reticulum  (B) Golgi apparatus  (C) Lysosomes  (D) Ribosomes
+List-II: (I) Site of formation of glycoproteins and glycolipids  (II) Site of synthesis of steroidal hormones in animals  (III) Contains enzymes for digestion of carbohydrates, proteins, lipids and nucleic acids  (IV) Protein synthesis
+Choose the correct answer from the options given below:
+A) A-II, B-IV, C-I, D-III
+B) A-II, B-I, C-III, D-IV
+C) A-I, B-III, C-II, D-IV
+D) A-I, B-IV, C-II, D-III
+Answer: A
+
+100. Identify from the following which are the constituents of chromatin.
+A) DNA and RNA only
+B) DNA and some basic proteins only
+C) DNA, histones, non-histone proteins and RNA
+D) Only DNA
+Answer: C
+
+101. The important cell organelle responsible for the formation of glycoproteins and glycolipids:
+A) Is responsible for synthesis of cellular energy
+B) Is the largest organelle of plant cell
+C) Was first observed by Camillo Golgi
+D) Is minute membrane bound vesicles called microbodies
+Answer: C
+
+102. Choose the correct statements from the codes given below.
+(I) Matthias Schleiden studies were based on different kinds of plant cells and tissues.
+(II) An incomplete cell structure does not ensure independent living.
+(III) Cell wall is a non living rigid structure.
+(IV) Human cheek cells do not possess a cell wall.
+Choose the most appropriate answer from the options given below:
+A) II and III only
+B) I and II only
+C) I, III and IV only
+D) I, II, III and IV
+Answer: D
+
+103. Identify the incorrect statement regarding eukaryotic cells.
+A) Fungi, protists, plants, and animals are all composed of eukaryotic cells
+B) Cells that have membrane bound nuclei are called eukaryotic cells
+C) All plant and animal cells contain centrioles and plastids
+D) The cytoplasm in eukaryotes is divided into compartments by organelle membranes
+Answer: C
+
+104. Given below are two statements.
+Statement-I: In plants, the cell wall consists of cellulose, hemicellulose, pectins and proteins.
+Statement-II: The middle lamella acts as glue between primary wall and Plasma membrane.
+In the light of the above statements, choose the most appropriate answer from the options given below:
+A) Statement-I is correct and Statement-II is incorrect
+B) Statement-I is incorrect and Statement-II is correct
+C) Both Statement-I and Statement-II are correct
+D) Both Statement-I and Statement-II are incorrect
+Answer: A
+
+105. Which of the following statement about mesosome is incorrect?
+A) They help in respiration and secretion processes
+B) It is formed by the extensions of plasma membrane out of the cell
+C) They help in cell wall formation, DNA replication and distribution to daughter cells
+D) They can be in the form of vesicles, tubules and lamellae
+Answer: B
+
+106. Identify the mismatched pair.
+A) Cristae − Infoldings of inner mitochondrial membrane
+B) Inclusion bodies − Stores reserve materials in prokaryotes
+C) Chromoplast − Contains carotenoid pigments
+D) Cisternae − Flat membranous sacs in stroma
+Answer: D
+
+107. Arrange the different layers of plant cell wall A, B and C from outside to inside.
+A − This layer is capable of growth and diminishes gradually as the cell matures.
+B − Formed towards membrane side of the cell.
+C − This layer holds or glues different neighbouring cells together.
+A) B → C → A
+B) C → A → B
+C) A → B → C
+D) B → A → C
+Answer: B
+
+108. __________ are found in blue green and purple and green photosynthetic bacteria.
+A) Food vacuole
+B) Gas vacuole
+C) Contractile vacuole
+D) Sap vacuole
+Answer: B
+
+109. Read the following steps related to the functioning of the Golgi apparatus and choose the correct sequence:
+(I) Proteins are synthesised by ribosomes on the endoplasmic reticulum.
+(II) Modified materials are released from the trans face.
+(III) Proteins are modified in the cisternae of the Golgi apparatus.
+(IV) Vesicles containing materials bud off from the ER and fuse with the cis face of the Golgi apparatus.
+A) I → II → III → IV
+B) II → I → III → IV
+C) I → IV → III → II
+D) II → III → I → IV
+Answer: C
+
+110. How many of the following structure(s) is/are found only in animal cells?
+Cell wall, Centriole, Chloroplast, Mitochondria, ribosomes
+Select the correct option.
+A) One
+B) Two
+C) Three
+D) Four
+Answer: A
+
+111. Which of the following components is structurally similar in bacteria as well as in eukaryotic cell?
+A) Plasma membrane
+B) Vacuoles
+C) Flagella
+D) Cell wall
+Answer: A
+
+112. Read the following statements and choose the correct option.
+(I) Cell wall gives shape to the cell and protects the cell from mechanical damage and infection.
+(II) In higher plants, cell wall is made of cellulose, galactans, mannans and minerals like calcium carbonate.
+(III) In algae, cell wall is made of cellulose, hemicellulose, pectins and proteins.
+(IV) Cell wall helps in cell-to-cell interaction and provides barrier to undesirable macromolecules.
+A) I and III are correct
+B) II and III are incorrect
+C) III and IV are correct
+D) I and IV are incorrect
+Answer: B
+
+113. Read the following statements and select the correct ones regarding cell organelles and structures:
+(I) Chloroplasts contain circular DNA, 70S ribosomes, and enzymes for protein synthesis.
+(II) The membrane of the thylakoids enclose a space known as the lumen.
+(III) In eukaryotes, cilia and flagella are hair-like outgrowths of the cell wall.
+(IV) The cytoskeleton consists of microtubules, microfilaments, and intermediate filaments, and it helps in maintaining cell shape and internal organisation.
+A) I, II, and IV only
+B) I and III only
+C) II, III, and IV only
+D) All I, II, III, and IV
+Answer: A
+
+114. Select the incorrect statement(s) w.r.t plasma membrane of eukaryotic cell.
+(I) The lipids are arranged within the membrane with the polar head towards the inner sides.
+(II) In human red blood cell (RBC) membrane, in addition to phospholipids the membrane also contains cholesterol.
+(III) The peripheral proteins are partially or totally buried in the membrane.
+(IV) The integral proteins lie on the surface of the membrane.
+(V) The ratio of protein and lipid varies considerably in different cell types.
+A) I, III and IV only
+B) II and V only
+C) III and IV only
+D) I, IV and V only
+Answer: A
+
+115. Read the following and identify the incorrect statement(s).
+(I) Both the cilium and flagellum emerge from centriole-like structure called the basal bodies.
+(II) Flagella are small structures which work like oars, causing the movement of either the cell or the surrounding fluid.
+(III) Cilia are comparatively longer than flagella and responsible for cell movement.
+(IV) The prokaryotic bacteria possess flagella but these are structurally different from that of the eukaryotic flagella.
+A) I only
+B) II and III only
+C) I, II and III only
+D) IV only
+Answer: B
+
+116. Given below are two statements: one is labelled as Assertion (A) and the other is labelled as Reason (R):
+Assertion (A): In plants, concentration of ions and other materials is significantly higher in the vacuole than in the cytoplasm.
+Reason (R): In plants, the tonoplast facilitates the transport of a number of ions and other materials against concentration gradients into the vacuole.
+In the light of the above statements, choose the correct answer from the options given below:
+A) A is true but R is false
+B) A is false but R is true
+C) Both A and R are true and R is the correct explanation of A
+D) Both A and R are true but R is NOT the correct explanation of A
+Answer: C
+
+117. The leucoplasts are:
+A) Responsible for trapping light energy essential for photosynthesis
+B) The plastids containing pigments like carotene, xanthophylls
+C) Responsible for giving the part of the plant a yellow, orange or red colour
+D) The colourless plastids of varied shapes and sizes with stored nutrients
+Answer: D
+
+118. Match List-I with List-II.
+List-I: (A) Fluid Mosaic model  (B) Bound by Tonoplast  (C) Double-membrane bound organelle  (D) Formed by the process of packaging in golgi apparatus
+List-II: (I) Vacuole  (II) Chloroplast  (III) Lysosome  (IV) Plasma membrane
+Choose the correct answer from the options given below:
+A) A-IV, B-I, C-II, D-III
+B) A-I, B-III, C-II, D-IV
+C) A-II, B-I, C-III, D-IV
+D) A-I, B-II, C-III, D-IV
+Answer: A
+
+119. Identify the incorrect statement.
+A) Contractile vacuole found in Amoeba helps in osmoregulation and excretion
+B) Food vacuoles in protists are formed by engulfing food particles
+C) Gas vacuole has a membrane and is found in cyanobacteria
+D) The vacuole in plant cells can occupy up to 90 percent of the volume of the cell
+Answer: C
+
+120. Which of the following are functions supported by the fluid nature of the plasma membrane?
+(I) Cell growth  (II) Formation of intercellular junctions  (III) Endocytosis  (IV) Secretion
+A) I and III only
+B) I, II, and IV only
+C) III and IV only
+D) I, II, III and IV
+Answer: D
+
+121. Match List-I with List-II.
+List-I: (A) Basal body  (B) Axoneme  (C) Centrioles  (D) Cilia
+List-II: (I) 9 + 2 microtubular organisation  (II) Centriole-like structure  (III) Spindle fibres formation  (IV) Work like oars
+Choose the correct answer from the options given below:
+A) A-I, B-II, C-IV, D-III
+B) A-I, B-III, C-II, D-IV
+C) A-II, B-I, C-III, D-IV
+D) A-I, B-II, C-III, D-IV
+Answer: C
+
+122. Molecules which are transported across the membrane against their concentration gradient, i.e., from lower to higher concentration. Such a transport is called:
+A) Active transport, e.g., diffusion
+B) Passive transport, e.g., diffusion
+C) Active transport, e.g., Na⁺/K⁺ pump
+D) Osmosis, a type of simple diffusion
+Answer: C
+
+123. Given below are two statements:
+Statement I: Animal cells contain another non-membrane bound organelle called the centrosome.
+Statement II: Centrosome helps in cell division in animal cells.
+In the light of the above statements, choose the most appropriate answer from the options given below:
+A) Statement I is correct but Statement II is incorrect
+B) Statement I is incorrect but Statement II is correct
+C) Both Statement I and Statement II are correct
+D) Both Statement I and Statement II are incorrect
+Answer: C
+
+124. Identify the incorrect function related to the cytoskeleton.
+A) Synthesis of carbohydrates
+B) Maintenance of the shape of the cell
+C) Mechanical support to the cell
+D) Cell motility
+Answer: A
+
+125. Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R:
+Assertion A: Mitochondria are the sites of anaerobic respiration.
+Reason R: Mitochondria produce cellular energy in the form of ATP.
+In the light of the above statements, choose the correct answer from the options given below:
+A) A is true but R is false
+B) A is false but R is true
+C) Both A and R are correct and R is the correct explanation of A
+D) Both A and R are correct but R is NOT the correct explanation of A
+Answer: B
+
+126. The cell organelles in animals which are not bound by any membrane are:
+A) Ribosome and gas vacuole
+B) Centrosome and chromatophore
+C) Ribosome and peroxisome
+D) Centrosome and ribosome
+Answer: D
+
+127. In prokaryotes, chromatophores are:
+A) Specialised granules responsible for food storage within the cells
+B) Structures responsible for maintaining the shape of the organism
+C) Lying free inside the cells for carrying out various metabolic activities
+D) Membranous extensions into the cytoplasm which contain pigments
+Answer: D
+
+128. Given below are two statements: one is labelled as Assertion (A) and the other is labelled as Reason (R):
+Assertion (A): Centrosome is an organelle usually containing two cylindrical structures called centrioles.
+Reason (R): Centrosomes are surrounded by amorphous pericentriolar materials.
+In the light of the above statements, choose the most appropriate answer from the options given below:
+A) A is true but R is false
+B) A is false but R is true
+C) Both A and R are correct and R is the correct explanation of A
+D) Both A and R are correct but R is NOT the correct explanation of A
+Answer: D
+
+129. Which of the following is incorrect w.r.t. fimbriae of bacteria?
+(1) They are surface structures.
+(2) They may be used for attachment to rocks.
+(3) They are small bristle like fibres sprouting out of the bacterial cell.
+(4) They contain photosynthetic pigments.
+A) They are surface structures
+B) They may be used for attachment to rocks
+C) They are small bristle like fibres sprouting out of the bacterial cell
+D) They contain photosynthetic pigments
+Answer: D
+
+130. Which of the following statements about bacterial flagella is correct?
+A) They are filamentous extension from their cell membrane
+B) They do not play a role in motility
+C) They show a range in the number and arrangement of flagella
+D) They are made up of hook and filament only
+Answer: C
+
+131. From the statements given below choose the correct option.
+(I) The eukaryotic ribosomes are 80S and prokaryotic ribosomes are 70S.
+(II) Each ribosome has two sub-units.
+(III) The two sub-units of 80S ribosome are 60S and 40S while that of 70S are 50S and 30S.
+(IV) The two sub-units of 80S ribosome are 60S and 20S and that of 70S are 50S and 20S.
+(V) The two sub-units of 80S ribosome are 60S and 30S and that of 70S are 50S and 30S.
+A) I, II, III are true
+B) I, II, IV are true
+C) I, II, V are true
+D) II, IV, V are true
+Answer: A
+
+132. What is the function of the nuclear pores, and what spherical structures within the nucleoplasm are the sites for active ribosomal RNA synthesis?
+A) Nuclear pores regulate the passage of lipids only; the site of rRNA synthesis is the chromatin
+B) Nuclear pores are passages for the movement of RNA and protein molecules between the nucleus and cytoplasm; the nucleoli are the sites of active rRNA synthesis
+C) Nuclear pores are the passage for transporting substances in and out; rRNA synthesis occurs on the outer nuclear membrane
+D) Nuclear pores connect the nucleus to the vacuole; rRNA synthesis takes place in the perinuclear space
+Answer: B
+
+133. Given below are two statements:
+Statement-I: Bacteria that take up the gram stain are Gram positive and the others that do not are called Gram negative.
+Statement-II: Capsule is the membranous structure in bacteria formed by the extensions of plasma membrane into the cell.
+In the light of the above statements, choose the most appropriate answer from the options given below:
+A) Statement I is correct but Statement II is incorrect
+B) Statement I is incorrect but Statement II is correct
+C) Both Statement I and Statement II are correct
+D) Both Statement I and Statement II are incorrect
+Answer: A
+
+134. Given below are two statements: one is labelled as Assertion (A) and the other is labelled as Reason (R):
+Assertion (A): The endoplasmic reticulum is a network of tiny tubular structures scattered in the cytoplasm.
+Reason (R): Endoplasmic reticulum contains tubules or cisternae.
+In the light of the above statements, choose the most appropriate answer from the options given below:
+A) A is true but R is false
+B) A is false but R is true
+C) Both A and R are true and R is the correct explanation of A
+D) Both A and R are true but R is NOT the correct explanation of A
+Answer: D
+
+135. Read the following statement w.r.t mitochondria.
+(I) Sausage shaped / cylindrical.
+(II) Diameter 0.2 − 1.0 μm (average 0.5 μm) and length 1.0 − 4.1 μm.
+(III) The mitochondria divide by fission.
+(IV) It is the site of anaerobic respiration.
+(V) Both membranes have their own specific enzymes.
+How many features are correct?
+A) Three
+B) Two
+C) Four
+D) Five
+Answer: C
+
+136. Which of the following cells are specialized for osmoregulation and excretion in Platyhelminthes?
+A) Choanocytes
+B) Flame cells
+C) Cnidocytes
+D) Nephridia
+Answer: B
+
+137. In Porifera, the body is supported by a skeleton made up of:
+A) Spongin fibers only
+B) Spicules only
+C) Either spicules or spongin fibers
+D) Calcareous shells
+Answer: C
+
+138. The property of bioluminescence is well marked in which of the following phyla?
+A) Cnidaria
+B) Ctenophora
+C) Porifera
+D) Mollusca
+Answer: B
+
+139. In which of the following animals are the sexes not separate or monoecious?
+A) Nereis
+B) Cockroach
+C) Earthworm
+D) Prawn
+Answer: C
+
+140. Which of the following is a characteristic feature of Phylum Mollusca?
+A) Presence of a water vascular system
+B) Presence of a mantle cavity and a radula
+C) Metameric segmentation
+D) Presence of jointed appendages
+Answer: B
+
+141. The basic fundamental feature(s) that enable us to broadly classify the animal kingdom is/are:
+A) Level of organization and coelom
+B) Cell organization and symmetry
+C) Segmentation and notochord
+D) All of the above
+Answer: D
+
+142. All triploblastic animals are primarily:
+A) Bilateral symmetrical
+B) Possess true coelom
+C) Undergo reproduction with sexual dimorphism
+D) Possess regeneration power
+Answer: A
+
+143. Which of the following is not included in the 'multicellular grade' of organisms?
+A) Vertebrates
+B) Sponges
+C) Prokaryotes
+D) Coelenterates
+Answer: C
+
+144. Which of the following is not the common fundamental feature for animal classification?
+A) Germinal layers
+B) Pathway of water transport
+C) Pattern of organisation of cells
+D) Serial repetition of the segments
+Answer: B
+
+145. Which of the following is a gregarious pest?
+A) Apis
+B) Culex
+C) Locusta
+D) Bombyx
+Answer: C
+
+146. Canal system of porifera is not connected with:
+A) Food gathering
+B) Respiratory gas exchange
+C) Removal of waste
+D) Locomotion
+Answer: D
+
+147. Digestive system in phylum Platyhelminthes:
+A) Has two openings to the outside of the body
+B) Has one opening to the outside of the body
+C) Opens through excretory pore to the inside of the body
+D) Both (1) and (2)
+Answer: B
+
+148. True coelom appeared first in the course of evolution of:
+A) Aschelminthes
+B) Chordata
+C) Echinodermata
+D) Annelida
+Answer: D
+
+149. All of the following animals belong to phylum Echinodermata except:
+A) Aplysia
+B) Cucumaria
+C) Antedon
+D) Asterias
+Answer: A
+
+150. Phylum Mollusca is differentiated from other invertebrates by having:
+A) Bilateral symmetry and external skeleton
+B) Metameric segmentation and jointed appendages
+C) A water vascular system and calcareous ossicles
+D) An unsegmented body with a distinct visceral hump and a mantle
+Answer: D
+
+151. Given below are two statements.
+Statement I: Nereis is monoecious.
+Statement II: Scypha have cellular level of body organisation.
+In the light of the above statements, choose the most appropriate answer from the options given below:
+A) Statement I is correct, but Statement II is incorrect
+B) Statement I is incorrect, but Statement II is correct
+C) Both Statement I and Statement II are correct
+D) Both Statement I and Statement II are incorrect
+Answer: B
+
+152. Which of the following are economically important insects?
+A) Bombyx and Apis
+B) Laccifer and Anopheles
+C) Locusta and Limulus
+D) All of these
+Answer: A
+
+153. Which of the following statements is incorrect?
+A) Mesoglea is present in between ectoderm and endoderm in Obelia
+B) Adult Asterias exhibits radial symmetry
+C) Fasciola is a pseudocoelomate animal
+D) Taenia is a triploblastic animal
+Answer: C
+
+154. Assertion (A): Poriferans show indirect development.
+Reason (R): Larval form of sponges is similar to their adult.
+Choose the correct option:
+A) Both A and R are true, and R is a correct explanation of A
+B) Both A and R are true, but R is not a correct explanation of A
+C) A is true, R is false
+D) A is false, R is true
+Answer: C
+
+155. Water vascular system and tube feet are the characteristic of:
+A) Arthropoda
+B) Echinodermata
+C) Molluscs
+D) Bony fishes
+Answer: B
+
+156. The unique feature of the phylum Ctenophora is:
+A) Presence of cnidoblasts on the tentacles
+B) Presence of eight external rows of ciliated comb plates
+C) Presence of a water vascular system
+D) Exhibition of alternation of generations
+Answer: B
+
+157. In flatworms, all of the given adaptations are present except:
+A) Presence of hooks and suckers for attachment
+B) Direct absorption of nutrients through the body surface
+C) Separate sexes and external fertilization
+D) High regeneration capacity in some members like Planaria
+Answer: C
+
+158. Which of the following is false for the water vascular system in echinoderms?
+A) It aids in locomotion
+B) It assists in food capture
+C) It helps in excretion
+D) It aids in respiration
+Answer: C
+
+159. Read the following characteristics:
+1. Tissue level of organisation and are diploblastic
+2. Mouth on hypostome
+3. Exhibit two body forms polyp and medusa
+Which of the following organisms belong to the phylum described above?
+A) Meandrina
+B) Eusponsia
+C) Ctenoplana
+D) Spongilla
+Answer: A
+
+160. The larval and adult stages of echinoderms exhibit:
+A) Radial and bilateral symmetry, respectively
+B) Bilateral and radial symmetry, respectively
+C) Both have radial symmetry, respectively
+D) Both have bilateral symmetry, respectively
+Answer: B
+
+161. Which of the following features is not present in the Phylum Arthropoda?
+A) Chitinous exoskeleton
+B) Metameric segmentation
+C) Parapodia
+D) Jointed appendages
+Answer: C
+
+162. Indicate the correct statement pertaining to Platyhelminthes:
+A) Some members like Planaria possess high regeneration capacity
+B) They are diploblastic and radially symmetrical animals
+C) They possess a complete digestive system with two openings
+D) Sexes are separate and fertilisation is external
+Answer: A
+
+163. Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R:
+Assertion (A): Annelids show metagenesis.
+Reason (R): Alternation of generation, i.e., polyps produce medusae asexually and medusae form the polyps sexually is called metagenesis.
+In the light of the above statements, choose the correct answer from the options given below:
+A) Both Assertion (A) and Reason (R) are true, and Reason (R) is a correct explanation of Assertion (A)
+B) Both Assertion (A) and Reason (R) are true, and Reason (R) is not a correct explanation of Assertion (A)
+C) Assertion (A) is true, and Reason (R) is false
+D) Assertion (A) is false, and Reason (R) is true
+Answer: D
+
+164. Read four statements (A-D) w.r.t. coelenterata.
+A. Digestion is extracellular and intracellular.
+B. Medusa is free swimming and umbrella shaped form.
+C. Medusae are produced sexually by polyp.
+D. Corals have a skeleton composed of calcium carbonate.
+How many of the above statements are incorrect?
+A) One
+B) Two
+C) Three
+D) Four
+Answer: A
+
+165. Read the following four statements (I-IV) for Ctenophora.
+I. Diploblastic with tissue level of organisation.
+II. The body bears eight external rows of ciliated comb plates.
+III. Digestion is both extracellular and intracellular.
+IV. Reproduction takes place only by sexual means.
+How many of the above statements are correct?
+A) Four
+B) Three
+C) Two
+D) One
+Answer: A
+
+166. Diagrams of two animals (unlabelled body outlines, A and B) are given. Identify the common character in them.
+A) Both exhibit the intracellular and extracellular digestion
+B) Both having the water canal system
+C) Both exhibit a tissue level of organisation
+D) Both are aquatic invertebrate animals lacking a true coelom
+Answer: D
+
+167. Match List-I (Division of Labour) with List-II (Animal).
+List-I: (A) Organ level  (B) Cellular aggregate level  (C) Tissue level  (D) Organ system level
+List-II: (I) Pheretima  (II) Fasciola  (III) Spongilla  (IV) Obelia
+Choose the correct answer from the options given below:
+A) A-II, B-III, C-IV, D-I
+B) A-II, B-IV, C-III, D-I
+C) A-IV, B-I, C-II, D-III
+D) A-I, B-IV, C-III, D-II
+Answer: A
+
+168. Choose the correct statement(s) for starfish.
+I. Sexes are separate and reproduction is sexual.
+II. Development is direct without a free-swimming larva.
+III. The digestive system is complete with mouth on the lower (ventral) side and anus on the upper (dorsal) side.
+IV. They possess an excretory system for waste removal.
+A) I and III
+B) I, II and IV
+C) I, II and III
+D) III and IV
+Answer: A
+
+169. Book lungs act as respiratory organs in:
+A) Taenia
+B) Ascaris
+C) Scorpion
+D) Nereis
+Answer: C
+
+170. Choose the correct option.
+A) Phylum-Mollusca is the third largest phylum
+B) Phylum-Arthropoda is the second largest phylum
+C) Phylum-Mollusca is the smallest phylum
+D) Phylum-Arthropoda is the largest phylum of Animalia
+Answer: D
+
+171. Match List-I with List-II to find out the correct option.
+List I: (a) Economically important insect  (b) Vector  (c) Gregarious pest  (d) Living fossil
+List II: (I) Limulus  (II) Locusta  (III) Anopheles  (IV) Bombyx
+A) a-(I), b-(II), c-(III), d-(IV)
+B) a-(IV), b-(III), c-(II), d-(I)
+C) a-(III), b-(IV), c-(II), d-(I)
+D) a-(II), b-(IV), c-(I), d-(III)
+Answer: B
+
+172. Metagenesis refers to:
+A) Alternation of generation between asexual and sexual phases of an organism
+B) Occurrence of a drastic change in form during postembryonic development
+C) Presence of a segmented body and parthenogenetic mode of reproduction
+D) Presence of different morphic forms
+Answer: A
+
+173. Ascaris is characterized by:
+A) Absence of true coelom but presence of metamerism
+B) Presence of neither true coelom nor metamerism
+C) Presence of true coelom but absence of metamerism
+D) Presence of true coelom and metamerism
+Answer: B
+
+174. Identify the set of correct statements regarding parasitic flatworms.
+(A) Parasitic forms possess hooks and suckers for attachment to the host.
+(B) Some of them absorb nutrients from the host directly through their body surface.
+(C) Ancylostoma and Hirudinaria are both examples of parasitic Platyhelminthes.
+(D) All parasites exhibit direct development without intermediate hosts.
+Choose the correct option:
+A) A and B only
+B) B and C only
+C) A, B, and C only
+D) A, B, C and D
+Answer: A
+
+175. Which one of the following statements about certain given animals is correct?
+A) Round worms (Aschelminthes) are pseudocoelomates
+B) Molluscs are acoelomates
+C) Insects are pseudocoelomates
+D) Flat worms (Platyhelminthes) are coelomates
+Answer: A
+
+176. Match List-I with List-II.
+List-I: (A) Pila  (B) Pinctada  (C) Sepia  (D) Loligo
+List-II: (I) Squid  (II) Cuttlefish  (III) Apple snail  (IV) Pearl oyster
+A) A-I, B-IV, C-II, D-III
+B) A-II, B-I, C-IV, D-III
+C) A-III, B-IV, C-II, D-I
+D) A-IV, B-III, C-II, D-I
+Answer: C
+
+177. Which one of the following statements is false?
+A) In Molluscs, gills have respiratory and excretory functions
+B) In Molluscs, the head has sensory tentacles
+C) Molluscs are dioecious, oviparous with indirect development
+D) None of these
+Answer: D
+
+178. Assertion (A): Members of phylum Aschelminthes are pseudocoelomates.
+Reason (R): In aschelminthes, the body cavity is not lined by mesoderm; instead, the mesoderm is present as scattered pouches in between the ectoderm and endoderm.
+A) Both Assertion (A) and Reason (R) are true, and Reason (R) is a correct explanation of Assertion (A)
+B) Both Assertion (A) and Reason (R) are true, and Reason (R) is not a correct explanation of Assertion (A)
+C) Assertion (A) is true, and Reason (R) is false
+D) Assertion (A) is false, and Reason (R) is true
+Answer: A
+
+179. Which of the following statement is correct?
+A) Closed circulatory system is present in annelids
+B) Leech is an aquatic annelid
+C) Reproduction can be sexual and asexual in annelids
+D) All of these
+Answer: A
+
+180. In molluscs, the mouth contains a file like rasping organ for feeding, called:
+A) Operculum
+B) Mantle
+C) Gizzard
+D) Radula
+Answer: D
