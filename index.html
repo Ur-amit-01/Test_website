@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>NEET Mock Test</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;500;600;700;800&family=IBM+Plex+Mono:wght@500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<button class="theme-toggle no-print" onclick="toggleTheme()" title="Toggle dark mode" aria-label="Toggle dark mode">
+  <svg class="icon-sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>
+  <svg class="icon-moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8Z"/></svg>
+</button>
+
+<!-- ================= INSTITUTE PICKER (landing) ================= -->
+<div id="screen-institutes" class="screen active">
+  <div id="screen-upload" style="display:flex;align-items:center;justify-content:center;padding:48px 20px;">
+  <div class="landing-card">
+    <div class="landing-mark">
+      <span class="brand-badge">PW</span>
+      <div class="num-label"><b id="libCount">0</b> practice test<span id="libCountPlural">s</span> ready across <b id="libInstCount">0</b> institute<span id="libInstCountPlural">s</span></div>
+    </div>
+    <h1 class="landing-title">NEET Mock Test</h1>
+    <p class="landing-sub">Choose an institute below, then pick a test to begin: a shared countdown timer at one minute per question, and NEET marking of <b>+4</b> for a correct answer and <b>&minus;1</b> for a wrong one.</p>
+
+    <div class="brand-box">
+      <div class="brand-field">
+        <label for="candidateInput">Your name <span>(optional, shown on the result)</span></label>
+        <input type="text" id="candidateInput" placeholder="e.g. Aditi Sharma">
+      </div>
+    </div>
+
+    <div class="loading-state" id="loadingState">
+      <span class="loading-spinner"></span>
+      <span class="loading-text">Loading tests…</span>
+    </div>
+    <div class="load-error hidden" id="loadError"></div>
+
+    <p class="section-label">Institutes</p>
+    <div id="instituteGrid" class="institute-grid"></div>
+  </div>
+  </div>
+</div>
+
+<!-- ================= TEST PICKER (within one institute) ================= -->
+<div id="screen-tests" class="screen" style="padding:48px 20px;">
+  <div class="landing-card" style="max-width:760px;margin:0 auto;">
+    <div class="back-row">
+      <button class="back-btn" onclick="backToInstitutes()">&larr; All institutes</button>
+    </div>
+    <div class="selected-institute-heading">
+      <span class="brand-badge" style="width:40px;height:40px;font-size:14px;">PW</span>
+      <h1 id="selectedInstituteName">Institute</h1>
+    </div>
+    <p class="section-label">Available tests</p>
+    <div id="libraryGroups"></div>
+  </div>
+</div>
+
+<!-- ================= QUIZ SCREEN ================= -->
+<div id="screen-quiz" class="screen">
+  <div class="quiz-topbar">
+    <div class="quiz-topbar-left">
+      <span class="brand-badge">PW</span>
+      <div style="min-width:0;">
+        <div class="title" id="quizTitle">NEET Mock Test</div>
+      </div>
+    </div>
+    <div class="timer-wrap">
+      <span class="timer-label">Time left</span>
+      <span class="timer-value mono" id="timerValue">--:--</span>
+      <button class="sidebar-toggle" onclick="toggleSidebar()">&#9776;</button>
+    </div>
+  </div>
+  <div class="quiz-body">
+    <div class="quiz-main">
+      <div class="q-meta">
+        <div class="q-number" id="qNumber">Question 1 of 45</div>
+        <div class="q-marks"><b>+4</b> correct &nbsp;&middot;&nbsp; <span class="neg">&minus;1</span> incorrect</div>
+      </div>
+      <img class="q-image" id="qImage" alt="Question figure">
+      <p class="q-text" id="qText"></p>
+      <div class="options" id="qOptions"></div>
+
+      <div class="quiz-actions">
+        <button class="qbtn ghost" id="prevBtn" onclick="goPrev()">Previous</button>
+        <button class="qbtn" onclick="clearResponse()">Clear response</button>
+        <button class="qbtn mark" onclick="markAndNext()">Mark for review &amp; next</button>
+        <button class="qbtn primary" id="saveNextBtn" onclick="saveAndNext()">Save &amp; next</button>
+      </div>
+    </div>
+    <div class="quiz-sidebar" id="quizSidebar">
+      <div class="legend">
+        <div class="legend-item"><span class="legend-dot" style="background:var(--correct-soft);border:1px solid var(--correct);"></span>Answered</div>
+        <div class="legend-item"><span class="legend-dot" style="background:var(--incorrect-soft);border:1px solid var(--incorrect);"></span>Not answered</div>
+        <div class="legend-item"><span class="legend-dot" style="background:var(--marked-soft);border:1px solid var(--marked);"></span>Marked</div>
+        <div class="legend-item"><span class="legend-dot" style="background:var(--bg);border:1px solid var(--line);"></span>Not visited</div>
+      </div>
+      <div class="palette" id="palette"></div>
+      <button class="submit-btn" onclick="confirmSubmit()">Submit test</button>
+    </div>
+  </div>
+</div>
+
+<!-- ================= RESULT SCREEN ================= -->
+<div id="screen-result" class="screen">
+  <div class="result-wrap">
+    <div class="report-header">
+      <div class="report-header-left">
+        <span class="brand-badge">PW</span>
+        <div>
+          <div class="institute">PW</div>
+          <div class="testname" id="reportTestName"></div>
+        </div>
+      </div>
+      <div class="meta" id="reportMeta"></div>
+    </div>
+    <div class="result-hero">
+      <div class="result-score">
+        <div class="label">Your score</div>
+        <div class="value" id="resScore">0<span id="resMax">/0</span></div>
+      </div>
+      <div class="result-breakdown">
+        <div class="rb-item correct"><div class="n" id="resCorrect">0</div><div class="l">Correct</div></div>
+        <div class="rb-item incorrect"><div class="n" id="resIncorrect">0</div><div class="l">Incorrect</div></div>
+        <div class="rb-item skipped"><div class="n" id="resSkipped">0</div><div class="l">Unattempted</div></div>
+      </div>
+    </div>
+
+    <div class="review-toggle">
+      <h2>Answer review</h2>
+      <div class="result-actions no-print">
+        <button class="qbtn" onclick="location.reload()">New test</button>
+        <button class="qbtn primary" onclick="window.print()">Download / print PDF</button>
+      </div>
+    </div>
+    <p class="print-hint no-print">Tip: in the print dialog, choose "Save as PDF" as the destination to download it.</p>
+
+    <div id="reviewList"></div>
+  </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
