@@ -1,0 +1,385 @@
+1. Find the value of sin(3π/2)
+A) 1/2
+B) 0
+C) +1
+D) −1
+Answer: D
+
+2. logₑ 15 is equal to:
+A) logₑ 3 + logₑ 5
+B) logₑ 5 − logₑ 3
+C) logₑ 10 + logₑ 5
+D) logₑ 10 − logₑ 5
+Answer: A
+
+3. Find the value of the hypotenuse (H) in the right triangle shown, where P = 3 m and B = 4 m.
+A) 6 m
+B) 1 m
+C) 5 m
+D) 7 m
+Image: data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyODAgMjAwIiB3aWR0aD0iMjgwIiBoZWlnaHQ9IjIwMCI+CiAgPHBvbHlnb24gcG9pbnRzPSIzMCwxNzAgMjMwLDE3MCAyMzAsMzAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzE2MjAyRSIgc3Ryb2tlLXdpZHRoPSIzIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+CiAgPHBhdGggZD0iTSAyMTAgMTcwIEwgMjEwIDE1MCBMIDIzMCAxNTAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzE2MjAyRSIgc3Ryb2tlLXdpZHRoPSIyLjUiLz4KICA8dGV4dCB4PSIxMDUiIHk9IjkwIiBmb250LWZhbWlseT0iR2VvcmdpYSwgc2VyaWYiIGZvbnQtc2l6ZT0iMjAiIGZvbnQtc3R5bGU9Iml0YWxpYyIgZmlsbD0iIzE2MjAyRSI+SDwvdGV4dD4KICA8dGV4dCB4PSIyNDAiIHk9IjEwNSIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsIHNlcmlmIiBmb250LXNpemU9IjIwIiBmb250LXN0eWxlPSJpdGFsaWMiIGZpbGw9IiMxNjIwMkUiPlAgPSAzbTwvdGV4dD4KICA8dGV4dCB4PSIxMzAiIHk9IjE5MiIgZm9udC1mYW1pbHk9Ikdlb3JnaWEsIHNlcmlmIiBmb250LXNpemU9IjIwIiBmb250LXN0eWxlPSJpdGFsaWMiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiMxNjIwMkUiPkIgPSA0bTwvdGV4dD4KICA8dGV4dCB4PSI1NSIgeT0iMTU4IiBmb250LWZhbWlseT0iR2VvcmdpYSwgc2VyaWYiIGZvbnQtc2l6ZT0iMTkiIGZvbnQtc3R5bGU9Iml0YWxpYyIgZmlsbD0iIzE2MjAyRSI+JiM5NTI7PC90ZXh0Pgo8L3N2Zz4K
+Answer: C
+
+4. log₂(2√2) = ?
+A) 3/2
+B) 2/3
+C) 1
+D) −1
+Answer: A
+
+5. Find the sum of the infinite terms: 1 + 1/2 + 1/4 + 1/8 + 1/16 + ……
+A) 1/2
+B) 1
+C) 2
+D) 3/2
+Answer: C
+
+6. The greatest value of the function (8 sinθ − 6 cosθ) is:
+A) 10
+B) 12
+C) 20
+D) 15
+Answer: A
+
+7. 10th term of the A.P. 1, 4, 7, 10, ….. is:
+A) 26
+B) 27
+C) 28
+D) 29
+Answer: C
+
+8. Calculate the distance between two points (0, −1, 1) and (3, 3, 13).
+A) 12
+B) 9
+C) 16
+D) 13
+Answer: D
+
+9. As θ increases from 0° to 90°, the value of cosθ:
+A) Increases
+B) Decreases
+C) Remains constant
+D) First decreases then increases.
+Answer: B
+
+10. Convert π/2 radian to degree.
+A) 60°
+B) 30°
+C) 90°
+D) 0°
+Answer: C
+
+11. If tanθ = 4/3. Find the value of sinθ
+A) 3/5
+B) 4/3
+C) 4/5
+D) 5/4
+Answer: C
+
+12. Which of the following is correct for sin(2θ)?
+A) 2 sinθ · cosθ
+B) sin²θ
+C) sin²θ − cos²θ
+D) 2 sinθ
+Answer: A
+
+13. Which of the following is a heterogeneous mixture?
+A) Oil and vinegar salad dressing
+B) Air
+C) Lemonade
+D) Bronze
+Answer: A
+
+14. Two compounds A and B contain elements X and Y. Compound A contains 80% of X by mass, and compound B contains 40% of X by mass. These two compounds:
+A) Obey law of conservation of mass
+B) Obey the law of multiple proportions
+C) Obey the law of constant proportions
+D) Do not obey the law of definite proportions
+Answer: B
+
+15. Select the correct example of an element:
+A) O₂
+B) CO₂
+C) Air
+D) H₂O
+Answer: A
+
+16. Given below are two statements:
+Statement I: The SI unit of amount of substance is Kilogram.
+Statement II: The mass of one molecule of water is 36 g.
+In the light of the above statements, choose the most appropriate answer from the options given below:
+A) Statement I is correct but Statement II is incorrect.
+B) Statement I is incorrect but Statement II is correct.
+C) Both Statement I and Statement II are correct.
+D) Both Statement I and Statement II are incorrect.
+Answer: D
+
+17. Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R.
+Assertion A: Total number of significant figures in 1.009 is four.
+Reason R: Zeros between two non-zero digits are significant.
+In the light of the above statements, choose the correct answer from the options given below.
+A) A is true but R is false.
+B) A is false but R is true.
+C) Both A and R are true and R is the correct explanation of A.
+D) Both A and R are true but R is NOT the correct explanation of A.
+Answer: C
+
+18. The number of significant figures for the three numbers 161 cm, 0.161 cm and 0.0161 cm are:
+A) 3, 4 and 5 respectively
+B) 3, 4 and 4 respectively
+C) 3, 3 and 4 respectively
+D) 3, 3 and 3 respectively
+Answer: D
+
+19. Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R:
+Assertion A: The number of molecules in 2 moles of NH3 is not equal to the number of molecules in 4 moles of CH4.
+Reason R: Both species contain the same number of atoms.
+In the light of the above statements, choose the correct answer from the options given below:
+A) A is true but R is false.
+B) A is false but R is true.
+C) Both A and R are true and R is the correct explanation of A.
+D) Both A and R are true but R is NOT the correct explanation of A.
+Answer: B
+
+20. A gaseous mixture contains oxygen and nitrogen in the ratio of 1 : 4 by mass. Therefore, the ratio of their number of molecules is:
+A) 1 : 4
+B) 1 : 8
+C) 7 : 32
+D) 3 : 16
+Answer: C
+
+21. 1 mol of CH4 contains:
+A) 6.02 × 10²³ atoms of H
+B) 4 g atom of Hydrogen
+C) 1.81 × 10²³ molecules of CH4
+D) 3.0 g of carbon
+Answer: B
+
+22. Percentage of calcium in calcium carbonate (CaCO3) is: (Molar mass of CaCO3 = 100 g/mol)
+A) 60%
+B) 80%
+C) 50%
+D) 40%
+Answer: D
+
+23. Which of the following compound has maximum percentage of carbon?
+A) CH4
+B) C3H6
+C) C2H2
+D) C2H4
+Answer: C
+
+24. Law of multiple proportions is illustrated by which of the following pairs:
+A) H2S and SO2
+B) CH4 and C3H6
+C) Na2S and SO3
+D) N2O and CO2
+Answer: B
+
+25. Choose the incorrect statement.
+A) Unicellular organisms are capable of independent existence.
+B) Anything less than a complete structure of a cell does not ensure independent living.
+C) Cell is the fundamental structural and functional unit of all non-living organisms.
+D) All cells arise from pre-existing cells.
+Answer: C
+
+26. Theodore Schwann studied different types of animal cells and reported that cells had a thin outer layer which is today known as:
+A) mesosome.
+B) plasma membrane.
+C) glycocalyx.
+D) chromatophores.
+Answer: B
+
+27. Identify the smallest cells among the following.
+A) White blood cells
+B) Mycoplasmas
+C) Red blood cells
+D) Nerve cells
+Answer: B
+
+28. Identify the mis-matched pair with respect to different shapes of the cells.
+A) Tracheids - Elongated
+B) White blood cells - Round and biconcave
+C) Nerve cells - Branched and long
+D) Mesophyll cell - Round and oval
+Answer: B
+
+29. Diameter of a human RBC is about:
+A) 7 μm.
+B) 700 mm.
+C) 6 μm.
+D) 6000 mm.
+Answer: A
+
+30. Omnis cellula-e cellula means:
+A) cells don't divide.
+B) new cells are formed from pre-existing cells.
+C) all living organisms are not composed of cells.
+D) organisms are products of cells.
+Answer: B
+
+31. Which layer of the cell envelope determines the shape of the cell and provides a strong structural support to prevent the bacterium from bursting or collapsing?
+A) Cell wall
+B) Cell membrane
+C) Glycocalyx
+D) Capsule
+Answer: A
+
+32. Choose the correct sequence of layers of cell envelope in bacteria from inside to outside.
+A) Plasma membrane → Cell wall → Glycocalyx
+B) Cell wall → Plasma membrane → Glycocalyx
+C) Glycocalyx → Plasma membrane → Cell wall
+D) Plasma membrane → Glycocalyx → Cell wall
+Answer: A
+
+33. The main arena of cellular activities in both the plant and animal cells is:
+A) cell membrane.
+B) Golgi complex.
+C) cytoplasm.
+D) ribosome.
+Answer: C
+
+34. Given below are two statements:
+Statement I: The four basic shapes of bacteria are bacillus, coccus, vibrio and spirillum.
+Statement II: The shape of the cell may vary with the function they perform.
+In the light of the above statements, choose the most appropriate answer from the options given below:
+A) Statement I is correct but Statement II is incorrect.
+B) Statement I is incorrect but Statement II is correct.
+C) Both Statement I and Statement II are correct.
+D) Both Statement I and Statement II are incorrect.
+Answer: C
+
+35. Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R:
+Assertion A: All organisms are composed of cells.
+Reason R: Some organisms are composed of many cells and are called unicellular organisms.
+In the light of the above statements, choose the correct answer from the options given below:
+A) A is true but R is false.
+B) A is false but R is true.
+C) Both A and R are true and R is the correct explanation of A.
+D) Both A and R are true but R is NOT the correct explanation of A.
+Answer: A
+
+36. Match List-I with List-II.
+List-I (Scientists)
+(A) Antonie Von Leeuwenhoek
+(B) Robert Brown
+(C) Theodore Schwann
+(D) Matthias Schleiden
+List-II (Discovery)
+(I) First saw and described a living cell
+(II) The presence of cell wall is unique to plant cells
+(III) Discovered the nucleus
+(IV) All plants are composed of different kinds of cells
+Choose the correct answer from the option given below:
+A) A-I, B-III, C-IV, D-II
+B) A-I, B-III, C-II, D-IV
+C) A-III, B-I, C-IV, D-II
+D) A-I, B-IV, C-II, D-III
+Answer: A
+
+37. Read the following statements regarding the levels of organization and select the correct option.
+Statement I: In sponges, cells are arranged as loose cell aggregates, exhibiting a cellular level of organization.
+Statement II: In coelenterates, the arrangement of cells is more complex, and cells performing the same function are arranged into tissues.
+A) Statement I is correct but Statement II is incorrect.
+B) Statement I is incorrect but Statement II is correct.
+C) Both Statement I and Statement II are correct.
+D) Both Statement I and Statement II are incorrect.
+Answer: C
+
+38. Which of the following exhibit polyp body form and is sessile?
+A) Hydra
+B) Adamsia
+C) Aurelia
+D) Both (1) and (2)
+Answer: D
+
+39. In which of the following phyla is the given cell found?
+A) Platyhelminthes
+B) Ctenophora
+C) Coelenterata
+D) None of these
+Image: data:image/jpeg;base64,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
+Answer: C
+
+40. Which of the following statements is INCORRECT regarding the basis of classification in animals?
+A) Sponges are mostly asymmetrical.
+B) Platyhelminthes exhibit bilateral symmetry and are pseudocoelomates.
+C) Radial symmetry is found in coelenterates, ctenophores, and adult echinoderms.
+D) Annelids, arthropods, molluscs, and chordates exhibit true coelom.
+Answer: B
+
+41. Given below are two statements: One is labelled as Assertion (A) and the other is labelled as Reason (R).
+Assertion (A): Cnidarians exhibit tissue level of organisation.
+Reason (R): Cnidarians are triploblastic.
+In the light of the above statements, choose the correct answer from the options given below:
+A) A is true but R is false.
+B) A is false but R is true.
+C) Both A and R are true and R is the correct explanation of A.
+D) Both A and R are true but R is NOT the correct explanation of A.
+Answer: A
+
+42. Given below are two statements: one is labelled as Assertion A and the other is labelled as Reason R:
+Assertion (A): Obelia exhibits alternation of generation (Metagenesis).
+Reason (R): The polyp of Obelia produces medusae asexually and the medusae produce polyps sexually.
+In the light of the above statements, choose the correct answer from the options given below:
+A) Both A and R are true and R is the correct explanation of A.
+B) Both A and R are true but R is not the correct explanation of A.
+C) A is true but R is false.
+D) Both A and R are false.
+Answer: A
+
+43. In diploblastic animals, an undifferentiated layer present between the ectoderm and the endoderm is called:
+A) Mesoderm
+B) Mesoglea
+C) Mesophyll
+D) Mesocoel
+Answer: B
+
+44. Which of the following represents the correct pathway of water transport (canal system) in sponges?
+A) Ostia → Spongocoel → Osculum
+B) Osculum → Spongocoel → Ostia
+C) Ostia → Osculum → Spongocoel
+D) Osculum → Ostia → Spongocoel
+Answer: A
+
+45. Match the following Cnidarians (List-I) with their common names (List-II) and select the correct option:
+List-I
+(A) Physalia
+(B) Pennatula
+(C) Gorgonia
+(D) Meandrina
+List-II
+(I) Brain coral
+(II) Sea-fan
+(III) Sea-pen
+(IV) Portuguese man-of-war
+A) A-IV, B-III, C-II, D-I
+B) A-IV, B-II, C-III, D-I
+C) A-I, B-III, C-II, D-IV
+D) A-IV, B-III, C-I, D-II
+Answer: A
+
+46. Read the following statements regarding Phylum Porifera and select the correct option.
+(a) Digestion is extracellular.
+(b) The skeleton is made up of spicules or spongin fibres.
+(c) Sexes are separate (dioecious).
+(d) Development is indirect having a larval stage which is morphologically distinct from the adult.
+A) Statements (a) and (c) are correct.
+B) Statements (b) and (d) are correct.
+C) Statements (b) and (c) are correct.
+D) Statements (a) and (d) are correct.
+Answer: B
+
+47. The unique character of sponges is
+A) Choanocytes or collar cells line the spongocoel and the canals.
+B) That they are hermaphrodite.
+C) That they live in marine water.
+D) It reproduces by asexual means only.
+Answer: A
+
+48. Which of the following is not a characteristic feature of sponges?
+A) Cellular level of organization.
+B) Presence of a water transport system with ostia, spongocoel, and osculum.
+C) Direct development without any larval stage.
+D) Digestion is intracellular.
+Answer: C
